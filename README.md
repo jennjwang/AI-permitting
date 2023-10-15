@@ -14,4 +14,6 @@ We hypothesize that application reviewers can be assisted by AI which summarizes
 
 Permitting applications were downloaded from [link], provided by [source]. ... more information about inventory.
 
+[link] was used as a set of criteria used to inform the content and organization of the summary of the permitting applications.
+
 A LLM model (ChatGPT: gpt-4) was used to summarize each response based on the prompt:
