@@ -1,0 +1,1572 @@
+Permit  No. MA0000787  2023 Final  Permit  
+Page  1 of 50  
+AUTHORIZATION TO DISCHARGE  UNDER 
+T
+HE NATIONAL  POLLUTANT  DISCHARGE  ELIMINATION  SYSTEM  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ In compliance with the provisions of the Federal  Clean  Water  Act as amended,  (33 U.S.C. §§1251 et  
+seq.; the “CWA”),  
+Massachusetts Port Authority (Massport) and the Co -P ermittees 
+listed  in Attachment  B and located  at Logan International Airport  
+are authorized to  di scharge from  a facility  located at  
+Logan International A irport 
+One Harborside Drive 
+E
+ast Boston, Massachusetts  02128- 2909  
+to r
+eceiving  waters  named  
+Boston H arbor,  Boston Inner  Harbor and Winthrop Bay (Boston Harbor Basin)  
+in acco rdance with  effluent limitations,  monitoring requirements  and other conditions  set forth  herein.  
+Co-P ermittees  are responsible for portions of the Stormwater  Pollution  Prevention Plan  (SWPPP)  in Part 
+I.C. for stormwater discharges from industrial activities which they conduct. The Co- Permittee 
+Swissport Fueling/BOSF uel is responsible for operating the treatment system associated with the 
+centralized  fuel farm.  All Co -Permittee  tenants  that deice aircraft  are responsible for complying with 
+Part I.C.2 of this Permit pertaining to glycol reduction. 
+This permit shall  become effective on the first day of the calendar  month immediately  following 60 
+days after signature.1 
+ 
+ 
+ 
+ 
+ 
+    
+ This permit expires  at midnight, five years  from  the last day of the month preceding  the effective 
+date. 
+This permit supersedes  the permit issued  on July 31, 2007.  
+1 Procedures  for appealing  EPA’s  Final  Permit  decision  may be found at 40 CFR § 124.19.  
+Permit  No. MA0000787  2023 Final  Permit  
+Page  2 of 50  
+This permit consists of Part I , Attachment A (Marine Acute Toxicity Test Protocol, July 2012 , 10 
+pages),  Attachment  B (List  of Co-Permittees),  and Part  II (NPDES  Part II Standard  Conditions, April 
+2018, 21 pages). 
+ 
+ 
+Signed this  24th day of August, 2023.  
+KENNETH 
+MORAFF  Digitally  signed  by 
+KENNETH  MORAFF  
+Date: 2023.08.24  12:13:01  
+-04'00'  
+Ken Moraff,  Director 
+Water Division  
+Environmental Protection  Agency 
+Region 1 
+Boston, MA  
+Permit  No. MA0000787  2023 Final  Permit  
+Page  3 of 50  
+Outfall Designations  
+ 
+ 
+ Below is a summary of where tables of the effluent limits and monitoring requirements can be 
+found by Permit Part  and page number. For  reporting  purposes, each numbered outfall was given 
+letter  designations that apply to different  sampling  conditions as follows: Wet and/or dry weather 
+(A), deicing episodes (B), treated stormwater from the fuel storage and distribution system (D) and (E). Designations (D) and (E) represent treated discharges which are combined with other stormwater flows within the storm dra inage system and eventually discharge to Outfall 001. 
+Outfall Number 
+(Ma
+ssport  designation) Wet and/or dry 
+weather flows  Deicing 
+Episode  Above-Ground Storage 
+Tanks (ASTs), Fuel 
+Loading Rack,  and Set-up 
+Tank Areas  
+Outfall  001 (North  Outfall)  01A 
+(I.A.1, page 4) 01B 
+(I.A.3, page 15) 01D & 01E (I.A.4, page 18) 
+Outfall  002 (West  Outfall)  02A 
+(I.A.1, page 4) 02B 
+(I.A.3, page 15) ------ 
+Outfall 003 
+(Porter  Street  Outfall)  03A 
+(I.A.2, page 11) 03B 
+(I.A.7, page 24) ------ 
+Outfall 004 
+(Maverick  Street  Outfall) 04A 
+(I.A.1, page 4) ------ ------ 
+Outfall 005 
+(Northwest  Outfall)  05A 
+(I.A.5, page 20) ------ ------ 
+Outfall 006 
+(Perimeter Outfall  A21) 06A 
+(I.A.6, page 22) 06B 
+(I.A.7, page 24) ------ 
+Outfall 007 
+(Perimeter Outfall  A33) 07A 
+(I.A.6, page 22) 07B 
+(I.A.7, page 24) ------ 
+Outfall 008 
+(Perimeter Outfall  A8) 08A 
+(I.A.6, page 22) 08B 
+(I.A.7, page 24) ------ 
+Permit  No. MA0000787  2023 Final Permit  
+Page  4 of 50  
+PART  I 
+ 
+ 
+ 
+ A. EFF
+LUENT LIMITATIONS  AND MONITORING  REQUIREMENTS  
+1. During the period beginning on the effective date and  lasting  through the expiration date, Massport (“the Permittee”)  and Co- 
+Permittees are authorized to discharge stormwater associated with industrial activity from vehicle maintenance areas, 
+equipment cleaning areas and deicing activities, and groundwater infiltration through Outfall Serial Number 01A (North) to Winthrop Bay, and 02A (West) and 04A (Maverick Street) to Boston Inner Harbor. Such discharges shall be limited as 
+specified below and monitored by Massport as specified below: 
+ 
+Effluent Characteristic  Effluent Limitation  Monitoring  Requirements1,2,3 
+Average Monthly  Maximum Daily  Measurement 
+Frequency4 Sample  Type5 
+Effluent  Flow6 Report MGD Report MGD 1/month  Estimate  
+Total  Suspended  Solids (TSS)  Report  mg/L  100 mg/L  1/month  Grab  
+pH7 6.0 - 8.5 S.U.  1/month  Grab  
+Oil and Grease 8 --- 15 mg/l  1/month  Grab  
+Fecal  Coliform9, Outfall 01A 
+ 
+Outfalls  02A and 04A  88 MPN/100 ml  
+ 
+Report MPN/100 
+ml 260 MPN/100 ml  
+ 
+Report MPN/100 
+ml 1/month  
+ 
+1/month  Grab  
+ 
+Grab  
+Enterococcus9 35 cfu/100 ml  130 cfu/100 ml  1/month  Grab  
+Benzene,  μg/l10 (Outfall  01A only)  Report µg/L  Report µg/L  1/month  Grab  
+Surfactants  (Outfalls  01A and 02A)  Report mg/L  Report mg/L  1/year  Grab  
+Permit  No. MA0000787  2023 Final Permit  
+Page  5 of 50  
+ 
+ 
+Effluent Characteristic  Effluent Limitation  Monitoring  Requirements1,2,3 
+Average Monthly  Maximum Daily  Measurement 
+Frequency4 Sample  Type5 
+Total  Ammonia Nitrogen, as mg/L  of N Report mg/L  Report mg/L  1/quarter  Grab  
+Polycyclic Aromatic  Hydrocarbons (PAHs)10 ---- Report Total  1/quarter  Grab  
+1) Benzo(a)anthracene  ---- Report µg/L  1/quarter  Grab  
+2) Benzo(a)pyrene  ---- Report µg/L  1/quarter  Grab  
+3) Benzo(b)fluoranthene  ---- Report µg/L  1/quarter  Grab  
+4) Benzo(k)fluoranthene  ---- Report µg/L  1/quarter  Grab  
+5) Chrysene  ---- Report µg/L  1/quarter  Grab  
+6) Dibenzo(a,h)anthracene  ---- Report µg/L  1/quarter  Grab  
+7) Indeno(1,2,3- cd)pyrene  ---- Report µg/L  1/quarter  Grab  
+8) Naphthalene  ---- Report µg/L  1/quarter  Grab  
+Perfluorohexanesulfonic acid  (PFHxS)11,12 ---- Report  ng/L 1/quarter  Grab  
+Perfluoroheptanoic acid  (PFHpA)11,12 ---- Report  ng/L 1/quarter  Grab  
+Perfluorononanoic acid (PFNA)11,12 ---- Report  ng/L 1/quarter  Grab  
+Perfluorooctanesulfonic acid  (PFOS)11,12 ---- Report  ng/L 1/quarter  Grab  
+Perfluorooctanoic acid  (PFOA)11,12 ---- Report  ng/L 1/quarter  Grab  
+Perfluorodecanoic acid (PFDA)11,12 ---- Report  ng/L 1/quarter  Grab  
+Permit  No. MA0000787  2023 Final Permit  
+Page  6 of 50  
+ 
+ 
+Effluent Characteristic  Effluent Limitation  Monitoring  Requirements1,2,3 
+Average Monthly  Maximum Daily  Measurement 
+Frequency4 Sample  Type5 
+ 
+Whole  Effluent  Toxicity  (WET)  Testing5,13,14 
+LC50 --- Report % 1/quarter  Composite  
+NOAEL  --- Report % 1/quarter  Composite  
+pH --- Report S.U.  1/quarter  Composite  
+Total  Solids  --- Report mg/L  1/quarter  Composite  
+Total  Suspended Solids  --- Report mg/L  1/quarter  Composite  
+Ammonia  --- Report mg/L  1/quarter  Composite  
+Salinity  --- Report ppt  1/quarter  Composite  
+Total  Organic Carbon  --- Report mg/L  1/quarter  Composite  
+Total  Cadmium  --- Report mg/L  1/quarter  Composite  
+Total  Copper  --- Report mg/L  1/quarter  Composite  
+Total  Nickel  --- Report mg/L  1/quarter  Composite  
+Total  Lead  --- Report mg/L  1/quarter  Composite  
+Total  Zinc  --- Report mg/L  1/quarter  Composite  
+Permit  No. MA0000787  2023 Final Permit  
+Page  7 of 50  
+ 
+ 
+  
+ 
+Ambient Characteristic15  
+Reporting  Requirement   
+Monitoring  Requirements1,2,3 
+Average 
+Monthly  Maximum Daily  Measurement 
+Frequency4 Sample  Type5 
+Salinity  --- Report ppt  1/quarter  Grab  
+Ammonia  --- Report mg/L  1/quarter  Grab  
+Total  Organic Carbon  --- Report mg/L  1/quarter  Grab  
+Total  Cadmium  --- Report mg/L  1/quarter  Grab  
+Total  Copper  --- Report mg/L  1/quarter  Grab  
+Total  Nickel  --- Report mg/L  1/quarter  Grab  
+Total  Lead  --- Report mg/L  1/quarter  Grab  
+Total  Zinc  --- Report mg/L  1/quarter  Grab  
+pH16 --- Report S.U.  1/quarter  Grab  
+Temperature16 --- Report °C  1/quarter  Grab  
+Footnotes:  
+1. Effluent  samples  shall yield  data representative of the discharge. A routine sampling program shall  be developed  in which  samples 
+are taken  at the discharge  point to the receiving  water  after treatment  in the oil/water  separator  (for Outfalls  01A and 02A), prior to 
+co-mingling with any other wastestream. On its Discharge Monitoring Report (DMR), the Permittee shall note any precipitation 
+events of greater than 0.1 inches in magnitude or equivalent snowmelt that occurred during the 72 hours prior to sampling. 
+Changes  in sampling  location  must be approved in writing  by the Environmental Protection  Agency  Region 1 (EPA) and the State. 
+The Permittee shall report the results to EPA and the State of any additional testing above that required herein, if testing is in accordance with 40 C.F.R. § 136. 
+Permit  No. MA0000787  2023 Final Permit  
+Page  8 of 50  
+ 
+ 
+ 
+ 
+ 
+ 2.
+ In accordance with 40 C.F.R. § 122.44(i)(1)(iv), the Permittee shall monitor according to sufficiently sensitive test procedures 
+(i.e., methods) approved under 40 C.F.R. Part 136 or required under 40 C.F.R. Chapter I, Subchapter N or O, for the analysis of 
+pollutants or pollutant parameters (except WET). A method is “sufficiently sensitive” when: 1) The method minimum level (ML) is at or below the level of the effluent limitation established in the permit for the measured pollutant or pollutant parameter; or 2) The method has the lowest ML of the analytical methods approved under 40 C.F.R. Part 136 or required under 40 C.F.R. Chapter I, Subchapter N or O for the measured pollutant or pollutant parameter. The term “minimum level” refers to either the sample concentration equivalent to the lowest calibration point in a method or a multiple of  the method detection limit (MDL), whichever 
+is higher. Minimum levels  may be obtained in several  ways:  They  may be published in a method; they may be based  on the lowest 
+acceptable calibration point used by a laboratory; or they may be calculated by multiplying the MDL in a method, or the MDL determined by a laboratory, by a factor. 
+3. When  a parameter  is not detected  above the ML, the Permittee  must report  the data qualifier  signifying less than the ML for that 
+parameter (e.g., < 50 μg/L, if the ML for a parameter is 50 μg/L). 
+4. Measurement frequency of 1/month is defined as the sampling of one discharge event in each calendar month. Measurement frequency of 1/quarter is defined as the sampling of one discharge event in each calendar quarter. Measurement frequency of 1/year is defined as the sampling of one discharge event during one calendar year. Calendar quarters are defined as January through March, inclusive, April through June, inclusive, July through September, inclusive and October through December, inclusive. If no sample  is collected  during the measurement  frequencies  defined above, the Permittee  must report  an appropriate 
+No Data Indicator Code (e.g., “C” for “No Discharge”).  
+5. Th
+e  composite sample  for the Whole Effluent  Toxicity  (WET)  testing  shall  consist of a minimum of eight equally  weighted  grab 
+samples collected at fifteen -minute intervals or greater during a normal discharge and at the outfall location. 
+6. The effluent  flow  rate for Outfalls  01A, 02A, and 04A shall  be estimated  by the most recent  hydraulic flow  model developed by 
+Massport  or other acceptable method as approved in writing  by EPA.  Massport shall  report  the average monthly and maximum 
+daily flow rate for each of the three outfalls, in millions of gallons per day (MGD). 
+7. The pH shall  be within  the specified  range at  all times.  The minimum and maximum pH sample  measurement  values  for the month 
+shall be reported in standard units (S.U.). Also see Part I.C.5. 
+Permit  No. MA0000787  2023 Final Permit  
+Page  9 of 50  
+8. The Permittee  shall  use EPA  Method 1664A for oil & grease (O&G)  analysis,  which  has a minimum level  (ML) of 5 mg/l,  where 
+the ML is the lowest level at which the test equipment produces a recognizable signal and acceptable calibration point for a 
+pollutant or pollutant parameter, representative of the lowest concentration at which a pollutant or pollutant parame ter can be 
+measured with a known level of confidence. 
+ 
+ 
+ 
+ 
+ 9.
+ Fecal coliform shall be conducted year-round. For Outfalls 002A and 004A, fecal coliform shall be a monitor only requirement, 
+with no limit. For Outfall 01A , fecal coliform discharges shall not exceed a monthly geometric mean of 88 Most Probable 
+Number (MP N) per 100 ml, nor shall more than 10% of the samples exceed 260 MPN per 100 ml as a daily maximum. 
+Enterococcus monitoring shall be conducted year-round. Enterococcus shall not exceed a monthly geometric mean of 35 colony forming  units (cfu) per 100 ml, nor shall more  than 10% of samples  collected  within  a 30- day interval  exceed  130 cfu per 100 ml 
+as a daily maximum.  
+10. The ML for benzene analysis shall be no greater than 2 μg/l. Polycyclic Aromatic Hydrocarbons (PAH) shall be monitored once per calendar quarter and the results shall be submitted with the DMR for the last month of the quarter. The ML for PAHs shall be no greater  than the following: 0.1 μg/L  for each Group I  PAH  (Items  1 to 7 on limits  table  above) and 5 μg/L  for naphthalene.  The 
+ML is not the minimum level of detection, but rather the lowest level at which the test equipment produces a recognizable signal and acceptable calibration point for an analyte, representative of the lowest concentration at which an analyte can be measured with a known level of confidence. Analysis must be completed using an EPA approved method in 40 C.F.R. §136, Table IC – Non-Pesticide Organic Compounds. The detection limit (DL) for each analyte must be recorded. The DL is the lowest 
+concentration that can be reliably measured within specified limits of precision and accuracy for a specific laboratory analy tical 
+method during routine laboratory operating conditions (i.e., the level above which an actual value is reported for an analyte, and the level below which an analyte is reported as non -detect). When an analyte is not detected above the Practical Quantification 
+Level (PQL), the Permittee must report using the data qualifier signifying less than the DL for that analyte (i.e., <0.1 μg/L, if the PQL for an analyte is 0.1 μg/L). 
+11. This reporting requirement for the listed  PFAS  parameters  takes  effect in  the first full calendar  quarter following 6 months after 
+the effective date of the permit.  
+12. After  one year of monitoring, if all samples  are non- detect  for all six PFAS  compounds, using EPA’s  multi- lab validated  method 
+for wastewater,  the Permittee  may request  to remove the requirement  for PFAS  monitoring. See Special  Conditions in Part I.C.4. 
+13. Th
+e  Permittee  shall  conduct acute whole effluent  toxicity  tests (WET)  four times  per year for each  of the Outfalls  01A, 02A, and 
+04A in accordance with test procedures and protocols specified in Attachment A of this permit. LC 50 is defined in Part II.E. of  
+Permit  No. MA0000787  2023 Final Permit  
+Page  10 of 50  
+this permit.  The Permittee  shall  test the Mysid  Shrimp, Americamysis  bahia, and the Inland Silverside,  Menidia beryllina . Toxicity 
+test samples shall be collected in February, June, September, and December as shown in the table below. Sampling for February 
+and December shall be conducted during deicing applications for Outfalls 001 and 002 only, or within 12 hours after deicing applications have occurred in the respective drainage areas of these outfalls. The test results and complete report for each toxicity test shall be submitted as an attachment to the March, July, October, and January DMRs, which are due by April 15, August 15, November 15, and February 15, respectively. The tests must be performed in accordance with test procedures and protocols specified in Attachment A of this Permit. If the Permittee is unable to conduct the deicing sampling in February or December, it shall conduct such sampling during the following month. 
+ 
+ 
+ 
+ W
+ET Testing  Months  Submit  Results With:  Test Species   
+Acute  Endpoints  
+February  (during  deicing) 
+June 
+September  
+ 
+December  (during deicing)  March DMR 
+July DMR 
+October DMR  
+January  DMR   
+Mysid  Shrimp, Americamysis  bahia  
+ 
+Inland Silverside,  Menidia  beryllina   
+ 
+Report NOAEL  & 
+Report LC 50 
+14. For Part I.A.1., Whole Effluent Toxicity Testing, the Permittee shall conduct the analyses specified in Attachment A , Part VI. 
+CHEMICAL  ANALYSIS  for the effluent  sample.  If toxicity  test(s)  using the receiving  water  as diluent show the receiving  water 
+to be toxic or unreliable, the Permittee shall follow procedures outlined in Attachment A , Section IV., DILUTION WATER. 
+Minimum levels and test methods are specified in Attachment A , Part VI. CHEMICAL ANALYSIS.  
+15. Fo r  Part I.A.1., Ambient Characteristic,  the Permittee  shall  conduct the analyses  specified  in Attachment  A, Part VI. CHEMICAL 
+ANALYSIS for the receiving water sample collected as part of the WET testing requirements. Such samples shall be taken from 
+the receiving water at a point immediately upstream of the permitted discharge’s zone of influence at a reasonably accessible location, as specified in Attachment A , Minimum levels and test methods are specified in Attachment A, Part VI. CHEMICAL 
+ANALYSIS.  
+16. A pH and temperature  measurement  shall  be taken  of each receiving  water  sample  at the time of collection  and the results  reported 
+on the appropriate DMR. These pH and temperature measurements are independent from any pH and temperature measurements required by the WET testing protocols. 
+Permit  No. MA0000787  2023 Final Permit  
+Page  11 of 50  
+2. During the period beginning on the effective date and lasting through the expiration date, Massport and Co- Permittees are 
+authorized to discharge stormwater associated with industrial activity from vehicle maintenance areas, equipment cleaning 
+areas  and groundwater infiltration  from  outfall 03A (Porter  Street  Outfall)  to Boston Inner  Harbor . Such  discharges  shall  be 
+limited and monitored by Massport as specified below: 
+ 
+ 
+Effluent Characteristic  Effluent Limitation  Monitoring  Requirements1,2,3 
+Average 
+Monthly  Maximum Daily  Measurement 
+Frequency4 Sample  Type  
+Effluent  Flow5 Report MGD Report MGD 1/month  Estimate  
+Total  Suspended  Solids (TSS)  Report  mg/L  100 mg/L  1/month  Grab  
+pH6 6.0 - 8.5 S.U.  1/month  Grab  
+Oil and Grease7 --- 15 mg/L  1/month  Grab  
+ 
+Fecal  Coliform8 Report MPN/100 
+ml Report MPN/100 
+ml 1/month  Grab  
+Enterococcus8 35 cfu/100 ml  130 cfu/100 ml  1/month  Grab  
+Total  Ammonia Nitrogen, as mg/L  of N Report  mg/L  Report  mg/L  1/quarter  Grab  
+Polycyclic Aromatic  Hydrocarbons (PAHs)9 ---- Report  Total  µg/L  1/quarter  Grab  
+1) Benzo(a)anthracene  ---- Report µg/L  1/quarter  Grab  
+2) Benzo(a)pyrene  ---- Report µg/L  1/quarter  Grab  
+3) Benzo(b)fluoranthene  ---- Report µg/L  1/quarter  Grab  
+4) Benzo(k)fluoranthene  ---- Report µg/L  1/quarter  Grab  
+5) Chrysene  ---- Report µg/L  1/quarter  Grab  
+Permit  No. MA0000787  2023 Final Permit  
+Page  12 of 50  
+ 
+ 
+  
+Effluent Characteristic  Effluent Limitation  Monitoring  Requirements1,2,3 
+Average 
+Monthly  Maximum Daily  Measurement 
+Frequency4 Sample  Type  
+6) Dibenzo(a,h)anthracene  ---- Report µg/L  1/quarter  Grab  
+7) Indeno(1,2,3- cd)pyrene  ---- Report µg/L  1/quarter  Grab  
+8) Naphthalene  ---- Report µg/L  1/quarter  Grab  
+Perfluorohexanesulfonic acid  (PFHxS)10,11 ---- Report ng/L  1/quarter  Grab  
+Perfluoroheptanoic acid  (PFHpA)10,11 ---- Report ng/L  1/quarter  Grab  
+Perfluorononanoic acid (PFNA)10,11 ---- Report ng/L  1/quarter  Grab  
+Perfluorooctanesulfonic acid  (PFOS)10,11 ---- Report ng/L  1/quarter  Grab  
+Perfluorooctanoic acid  (PFOA)10,11 ---- Report ng/L  1/quarter  Grab  
+Perfluorodecanoic acid (PFDA)10,11 ---- Report ng/L  1/quarter  Grab  
+Footnotes:  
+1. Effluent  sam ples shall  yield  data representative of the discharge.  A routine sampling program shall  be developed  in which  samples 
+are taken at the discharge point to the receiving water and prior to co-mingling with any other wastestream. Changes in sampling 
+location must be approved in writing by the Environmental Protection Agency Region 1 (EPA) and the State. The Permittee shall report  the results  to EPA  and the State  of any additional testing  above that required  herein,  if testing is  done in accordance with 40 
+C.F.R. § 136. Outfall 03A samples shall be comprised of two equally weighted samples taken upstream of Outfall 03A that are representative of the discharge and at  least one of these shall  be from  the airside  of the property, which  is comprised  of runways, 
+taxiways and service roads. 
+Permit  No. MA0000787  2023 Final Permit  
+Page  13 of 50  
+2. In accordance with 40 C.F.R. § 122.44(i)(1)(iv), the Permittee shall monitor according to sufficiently sensitive test procedures 
+(i.e., methods) approved under 40 C.F.R. Part 136 or required under 40 C.F.R. Chapter I, Subchapter N or O, for the analysis of pollutants or pollutant parameters (except WET). A method is “sufficiently sensitive” when: 1) The method minimum level (ML) is at or below the level of the effluent limitation established in the permit for th e measured pollutant or pollutant parameter; or 2) 
+The method has the lowest ML of the analytical methods approved under 40 C.F.R. Part 136 or required under 40 C.F.R. Chapter I, Subchapter N or O for the measured pollutant or pollutant parameter. The term “minimum level” refers to either the sample concentration equivalent to the lowest calibration point in a method or a multiple of  the method detection limit (MDL), whichever 
+is higher. Minimum levels  may be obtained in several  ways:  They  may be published in a method; they may be based  on the lowest 
+acceptable calibration point used by a laboratory; or they may be calculated by multiplying the MDL in a method, or the MDL determined by a laboratory, by a factor. 
+ 
+ 
+ 
+ 
+ 3. Wh en  a parameter  is not detected  above the ML, the Permittee  must report  the data qualifier  signifying less than the ML for that 
+parameter (e.g., < 50 μg/L, if the ML for a parameter is 50 μg/L). 
+4. Measurement frequency of 1/month is defined as the sampling of one discharge event in each calendar month. Measurement 
+f
+requency of 1/quarter is defined as the sampling of one discharge event in each calendar quarter. Measurement frequency of 
+1/year is defined as the sampling of one discharge event during one calendar year. Calendar quarters are defined as January through March, inclusive, April through June, inclusive, July through September, inclusive and October through December, inclusive. If  no sample  is collected  during the measurement  frequencies  defined above, the Permittee  must report  an appropriate 
+No Data Indicator Code (e.g., “C” for “No Discharge”). 
+5. The effluent flow rate for Outfall 03A shall be estimated by the most recent hydraulic flow model developed by Massport or ot h
+ er 
+acceptable method as approved  in writing  by EPA.  Massport  shall report  the average monthly and maximum daily  flow rate for the 
+outfall, in millions of gallons per day (MGD). 
+6. The pH shall  be within  the specified  range at  all times.  The minimum and maximum pH sample  measurement  values  for the month 
+shall be reported in standard units (S.U.). Also see Part I.C.5. 
+7. The Permittee  shall  use EPA  Method 1664A for oil & grease (O&G)  analysis,  which  has a minimum level  (ML) of 5 mg/l,  where 
+the ML is the lowest level at which the test equipment produce s a recognizable signal and acceptable calibration point for a 
+pollutant or pollutant parameter, representative of the lowest concentration at which a pollutant or pollutant parameter can be measured with a known level of confidence. 
+Permit  No. MA0000787  2023 Final Permit  
+Page  14 of 50  
+8. Feca l coliform and Enterococcus monitoring shall be conducted year-round. Enterococcus shall not exceed a monthly geometric 
+mean  of 35 cfu  per 100 ml,  nor shall  more  than 10% of samples  collected  within  a 30- day interval exceed  130 cfu per 100 ml as  a 
+daily maximum. Fecal coliform shall be monitored only with no limit.  
+ 
+  9.
+ See footnote 10 in Part I.A.1  regarding PAH analysis  requirements.  Sampling  for PAH compounds shall  be conducted once during 
+each calendar quarter of the year.  
+10. The reporting requirement for the listed  PFAS parameters  takes  effect  in the first full calendar  quarter following 6 months after 
+the effective date of the permit.  
+11. After  one year of monitoring, if all samples  are non- detect  for all six PFAS  compounds, using EPA’s  multi- lab validated  method 
+for wastewater,  the Permittee  may request  to remove the requirement  for PFAS  monitoring. See Special  Conditions in Part I.C.4. 
+Permit  No. MA0000787  2023 Final Permit  
+Page  15 of 50  
+3. DEICING  EPISODES  
+ 
+ D
+uring the period beginning on the effective date and lasting through the expiration date, Massport and Co- Permittees are 
+authorized  to discharge stormwater  associated  with industrial activity  from  aircraft  and pavement/runway  deicing  activities  from 
+outfalls 01B (North) and 02B (West). Such discharges shall be monitored by Massport as specified below: 
+ 
+Effluent Characteristic  Discharge Limitations  Monitoring  Requirements1,2,3 
+Average 
+Monthly  Maximum 
+Daily  Measurement 
+Frequency4 Sample  Type  
+Effluent  Flow,  MGD5 ----- Report,  MGD  1/month (October 
+through  April only)  Estimate  
+Propylene Glycol  ----- Report  mg/L  1/month  (Oct-Apr) Grab  
+Biochemical  Oxygen Demand, 5 day 
+(BOD 5)6 ----- 
+----- Report mg/L 
+Report lbs/day 1/month  (Oct-Apr) 
+1/month (Oct-Apr) Grab 
+Calculated  
+Chemical  Oxygen Demand  (COD)6 ----- 
+----- Report mg/L 
+Report lbs/day 1/month  (Oct-Apr) 
+1/month (Oct-Apr) Grab 
+Calculated  
+Dissolved Oxygen  ----- Report mg/L  1/month  (Oct-Apr) Grab  
+Tolyltriazoles8, Total  ----- Report µg/L  3/Deicing  Season7 Grab  
+Nonylphenol8, Total  ----- Report µg/L  1/Deicing  Season7 Grab  
+Perfluorohexanesulfonic acid  (PFHxS)9,10 ---- Report ng/L  1/quarter  Grab  
+Perfluoroheptanoic  acid (PFHpA)9,10 ---- Report ng/L  1/quarter  Grab  
+Perfluorononanoic acid (PFNA)9,10 ---- Report ng/L  1/quarter  Grab  
+Perfluorooctanesulfonic acid  (PFOS)9,10 ---- Report  ng/L 1/quarter  Grab  
+Perfluorooctanoic  acid (PFOA)9,10 ---- Report  ng/L 1/quarter  Grab  
+Permit  No. MA0000787  2023 Final Permit  
+Page  16 of 50  
+ 
+ 
+  
+Effluent Characteristic  Discharge Limitations  Monitoring  Requirements1,2,3 
+Average 
+Monthly  Maximum 
+Daily  Measurement 
+Frequency4 Sample  Type  
+Perfluorodecanoic acid (PFDA)9,10 ---- Report  ng/L 1/quarter  Grab  
+Footnotes:  
+1. Sampling taken in compliance with the monitoring requirements specified above shall be taken at a point prior to discharge from 
+Outfalls 01B and 02B. Sampling shall be conducted during or soon after deicing has occurred in the respective drainage areas of these outfalls. On its DMR, the Permittee shall note any precipitation events of greater than 0.1 inches in magnitude or equi valent 
+snowmelt that occurred  during the 72 hours prior to sampling. Any change in  sampling  location  must be reviewed  and approved  in 
+writing by EPA and MassDEP. All samples shall be tested using the analytical methods found in 40 C.F.R.§136, or alternative methods approved by EPA in accordance with the procedures in 40 C.F.R. §136. Any changes in sampling location must be approved in writing by EPA and MassDEP. 
+ 
+ 
+ 2.
+ In accordance with 40 C.F.R. § 122.44(i)(1)(iv), the Permittee shall monitor according to sufficiently sensitive test procedures (i.e., methods) approved under  40 C.F.R. Part 136 or required  under 40 C.F.R. Chapter I,  Subchapter N or O, for the analysis of 
+pollutants or pollutant parameters (except WET). A method is “sufficiently sensitive”  when: 1) The ML is at or below the level of 
+the effluent limitation established in the  permit for the measured pollutant or pollutant parameter; or 2) The method has the lowest 
+ML of the analytical  methods approved under 40 C.F.R. Part 136 or required  under 40 C.F.R. Chapter  I, Subchapter  N or O for the 
+measured pollutant or pollutant parameter. The term “minimum level” refers to either the sample concentration equivalent to the lowest  calibration  point in  a method or a multiple  of the method detection  limit (MDL),  whichever  is higher. Minimum  levels  may 
+be obtained in several ways: They may be published in a method; they may be based on the lowest acceptable calibration point used by a laboratory; or they may be calculated by multiplying the MDL in a method, or the MDL determined by a laboratory, by a factor.  
+3. Wh
+en  a parameter  is not detected  above the ML, the Permittee must report  the data qualifier  signifying less than the ML for that 
+parameter (e.g., < 50 μg/L, if the ML for a parameter is 50 μg/L). 
+4. M easurement frequency of 1/month is defined as the sampling of one discharge event in each calendar month. If no sample is 
+collected  during the measurement  frequencies  defined above, the Permittee  must report  an appropriate No Data Indicator Code.  
+Permit  No. MA0000787  2023 Final Permit  
+Page  17 of 50  
+ 
+ 
+ 
+ 
+ 
+ 5. The effluent flow rate for Outfalls 01B and 02B shall be estimated by the most recent hydraulic flow model developed by 
+Massport  or other acceptable method as approved in  writing  by EPA.  Massport shall  report  the average monthly and maximum 
+daily flow rate for each of the two outfalls, in millions of gallons per day (MGD). 
+6. M assport will use the monthly sampling requirement during the deicing season for BOD 5 and COD as well as any additional 
+sampling  to ensure that the extrapolated  loading estimates  used  in the Deicer  Discharge  Reduction Plan (DDRP)  in Part I.C.2 are 
+reliably  accurate and statistically significant. To calculate monthly loadings, Massport shall use the methodology from the 
+technical development document that accompanied the airport Effluent Limitation Guideline document in 2012 and found at: 
+https://www.epa.gov/sites/production/files/2015 -06/documents/airport -deicing -tdd-final-2012.pdf . 
+7. The deicing  season  is defined as October  through April. Sampling  for nonylphenol and tolyltriazole  shall  be conducted three  times 
+during the deicing season and must be conducted on the same day as sampling for other parameters for Outfalls 01B and 02B. 
+8. F or nonylphenol, the Permittee shall use ASTM Standard Test Method D 7065 (Determination of Nonylphenol, Bisphenol A, p- 
+tert-Octylphenol, Nonylphenol Monoethoxylate and Nonylphenol Diethoxylate in Environmental Waters  by Gas Chromatography 
+Mass Spectrometry) or submit an alternative method to EPA for approval. For tolytriazole, the Permittee shall use a test method capable of achieving a minimum level (ML) of < 1 mg/L tolyltriazole. Tolyltriazoles may be reported as sum of the predominant 
+isomers which are found in the glycol formulations used at the airport. 
+9.
+ This reporting requirement for the listed  PFAS  parameters  takes  effect in  the first full calendar  quarter following 6 months after 
+the effective date of the permit.  
+10. After  four sampling  events,  if all samples  are non- detect  for all six PFAS  compounds, using EPA’s  multi- lab validated  method for 
+wastewater, the Permittee may request to remove the requirement for PFAS monitoring. See Special Conditions in Part I.C.4. 
+Permit  No. MA0000787  2023 Final Permit  
+Page  18 of 50  
+4. INTERNAL  OUTFALLS  ASSOCIATED WITH  FUEL  FARM  AND OUTFALL  001 STORMWATER  DRAINAGE  SYSTEM  
+ 
+ 
+ 
+ D
+uring the period beginning on the effective date and lasting through the expiration date, Massport and the Co- Permittee that 
+operates the centralized fuel farm are authorized to discharge stormwater associated with industrial activity from the 
+aboveground storage tank (AST) berms,  other bermed  areas  in the fuel farm  area and fuel  loading rack  area, and  from  hydrant 
+vaults and pits stored in the Set-up Tank, from internal outfalls 01D and 01E . These treated stormwater flows ultimately 
+discharge at Outfall 0 1A and shall be monitored by Massport or the Co- Permittee that operates the centralized fuel farm, as 
+specified below:  
+ 
+Effluent 
+Characteristic  Discharge Limitations  Monitoring  Requirements  
+Total Monthly  Maximum Daily  Measurement 
+Frequency  Sample  Type1 
+Flow2 Report, Gallons  Report, Gallons  1/month  Meter  or Estimate  
+pH Range  Report S.U.  Report S.U.  1/month  Grab  
+Oil & Grease3 ---- 15 mg/L  1/month  Grab  
+TSS Report mg/L  100 mg/L  1/month  Grab  
+Benzene4 Report mg/L  Report mg/L  1/month  Grab  
+Footnotes:  
+1. The water  from  the hydrant vaults and  pits which  collects  in the Set -up tank  shall  be sampled  after  the treatment train  consisting of 
+an oil/water separator, a bag filter, and two carbon filters in series, prior to commingling with the water from the bermed a reas of 
+the fuel farm  (including the AST  bermed  areas)  and the water  from  the fuel  loading rack.  The sampling  location  designated  Outfall 
+01E is the outlet of the last carbon filter. The water from the bermed areas of the fuel farm (including the AST bermed areas) and the water from the fuel loading rack combine with the treated water that is discharged at internal outfall 01E and pass through the oil/water separator located at the fuel farm, the outlet of which is designated as Outfall 01D. See Figures 4A and 5 of the Fact Sheet for diagrams showing these sampling points. A monthly grab sample shall be taken during dischar ge, at a location 
+representative of the discharge after treatment, as described above for each internal outfall. All samples shall be tested us ing the 
+Permit  No. MA0000787  2023 Final Permit  
+Page  19 of 50  
+NPDES approved EPA analytical methods for the designated effluent characteristic in accordance with 40 C.F.R. §136. 
+Alternative  methods can be used if approved by EPA  in writing,  in accordance with the procedures in 40 C.F.R. §136. For those 
+months when there are no discharges, the Permittee must report a NODI Code (e.g., “C” for “No Discharge”) on the DMR. 
+ 
+2. Metered  readings or estimates  of the total monthly and maximum daily  amount of treated  stormwater  discharged  to these internal 
+outfalls shall be reported in gallons. 
+ 
+3. The Permittee  shall  use EPA  Method 1664A for oil & grease (O&G)  analysis,  which  has a minimum level  (ML) of 5 mg/l,  where 
+the ML is the lowest level at which the test equipment produces a recognizable signal and acceptable calibration point for a pollutant or pollutant parameter, representative of the lowest concentration at which a pollutant or pollutant parameter can be measured with a known level of confidence. 
+ 
+4. The ML for benzene analysis  shall be no greater  than  2 μg/l. Analysis must be completed  using an EPA  approved method in 40 
+C.F.R. §136, Table IC – Non-Pesticide Organic Compounds. The detection limit (DL) for each analyte must be recorded. The DL 
+is the lowest  concentration  that can be reliably  measured  within  specified  limits  of precision  and accuracy  for a specific laboratory 
+analytical method during routine laboratory operating conditions (i.e., the level above which an actual value is reported for an analyte, and the level below which an analyte is reported as non- detect). When an analyte is not detected above the Practical  
+Quantification Level (PQL), the Permittee must report using the data qualifier signifying less than the DL for that analyte ( i.e., 
+<0.1 μg/L, if  the PQL  for an analyte is 0.1 μg/L).  
+Permit  No. MA0000787  2023 Final Permit  
+Page  20 of 50  
+5. During the period beginning on the effective date and  lasting  through the expiration date,  Massport  and Co-Permittees that  
+conduct operations in this outfall’s drainage area are authorized to discharge stormwater associated with industrial activity to 
+outfall 05A (Northwest) to  Winthrop Bay. Sampling shall  be conducted during wet weather  as described  below. Such  discharges 
+shall be monitored by Massport as specified below: 
+ 
+ 
+Effluent Characteristic  Discharge Limitations  Monitoring  Requirements1 
+Average 
+Monthly  Maximum 
+Daily  Measurement 
+Frequency2 Sample  Type3 
+Effluent  Flow4 Report, MGD Report, MGD 1/quarter  Estimated  
+pH, Range  Report S.U.  Report S.U.  1/quarter  Grab  
+Oil & Grease5 Report mg/L  15 mg/L  1/quarter  Grab  
+TSS Report mg/L  100 mg/L  1/quarter  Grab  
+ 
+Footnotes:  
+ 
+1. Sampling  taken  in compliance with the monitoring requirements  specified  above shall  be taken  at Outfall 05A and prior to mixing 
+with any other stream. Any change in sampling location must be reviewed and approved in writing by EPA and MassDEP. All samples shall be tested using the analytical methods found in 40 C.F.R. §136, or alternative methods approved by EPA in accord ance with the procedures in 40 C.F.R. §136. Any changes in sampling location must be approved in writing by EPA and 
+MassDEP.  Also see footnote 2 in Part I.A.1 regarding the use of sufficiently sensitive test procedures. 
+ 
+2. T
+he sampling frequency of 1/quarter is defined as the sampling of one discharge event per calendar quarter. Samples shall be 
+collected during the calendar quarters of January through March, April to June, July to September, and October through December 
+and the results  submitted  with the March,  June,  September,  and December  DMRs.  The Permittee  shall  submit the results  to EPA  of 
+any additional testing conducted beyond that required herein, if it is conducted in accordance with EPA approved methods consistent with the provisions of 40 C.F.R. §122.41(l)(4)(ii). For those months when there are no discharges, the Permittee must report a NODI Code on the DMR. 
+Permit  No. MA0000787  2023 Final Permit  
+Page  21 of 50  
+3. Grab samples at this outfall shall be taken during wet weather conditions, if practicable. Wet weather conditions are defined as a 
+storm  event  greater  than 0.1 inches  in magnitude and that occurs  at least 72 hours from  the previously measurable (greater  than 0.1 
+inch rain fall) storm event. The 72-hour interval may be waived when the preceding measurable storm did not yield a measurable discharge, or if the Permittee is able to document that less than a 72- hour interval is representative for local storm e vents during 
+the sampling period. The grab sample shall be taken during the first thirty (30) minutes of the discharge. If it is not pract icable to 
+take the sample during the first 30 minutes, sampling shall be conducted as soon as is practicable after this 30-minute period has elapsed. Massport shall estimate the flow rate for the days that sampling is conducted based on the most recent hydraulic flo w 
+model developed by Massport or other acceptable method as approved in writing by EPA. 
+ 
+4. The effluent  flow rate shall  be estimated  by the most recent  hydraulic flow model developed by Massport or other acceptable 
+method as approved in writing by EPA. 
+ 
+5. The Permittee  shall  use EPA  Method 1664A for oil & grease (O&G)  analysis,  which  has a minimum level  (ML) of 5 mg/l,  where 
+the ML is the lowest level at which the test equipment produces a recognizable signal and acceptable calibration point for a pollutant or pollutant parameter, representative of the lowest concentration at which a pollutant or pollutant paramete r can be 
+measured with a known level of confidence. 
+Permit  No. MA0000787  2023 Final Permit  
+Page  22 of 50  
+6. During the period beginning on the effective date and lasting through the expiration date, Massport and Co- Permittees are 
+authorized to discharge stormwater associated with industrial ac tivity from pavement and runway activities other than 
+deicing to outfalls 06A (airfield outfall A21) and Outfall 07A (airfield outfall A33) to Boston Harbor, and to Outfall 08A 
+(airfield outfall A8) to Winthrop Bay. If industrial activity from aircraft and pavement/runway deicing activities has 
+occurred within the last 24 hours, the Permittee will indicate that as a note on the DMR or as an attachment to the 
+DMR . Sampling  shall  be conducted during wet weather  as described  below. Such discharges  shall  be monitored  by Massport  as 
+specified below:  
+ 
+ 
+ 
+  
+Effluent Characteristic  Discharge Limitations  Monitoring  Requirements1 
+Average 
+Monthly  Maximum 
+Daily  Measurement  Frequency2 Sample  Type3 
+Effluent  Flow4 Report MGD Report MGD 1/quarter  Estimated  
+pH, Range  Report S.U.  Report S.U.  1/quarter  Grab  
+Oil & Grease5 Report mg/L  Report mg/L  1/quarter  Grab  
+TSS6 Report mg/L  Report mg/L  1/quarter  Grab  
+Dissolved Oxygen  Report mg/L  Report mg/L  1/quarter7 Grab  
+Footnotes:  
+1. S ampling taken in compliance with the monitoring requirements specified above shall be taken at Outfalls 06A, 07A, and 08A. 
+Any change in sampling location must be reviewed and approved in writing by EPA and MassDEP. For example, the Permittee 
+may request  permission  to sample  alternative  airfield  outfalls  if the designated  outfalls  are not easily  accessible.  All samples  shall 
+be tested using the analytical methods found in 40 C.F.R. §136, or alternative methods approved by EPA in accordance with the procedures in 40 C.F.R. §136. Any changes in sampling location must be approved in writing by EPA and MassDEP. Also see footnote 2 in Part I.A.1 regarding the use of sufficiently sensitive test procedures. 
+2. Samples  s
+ hall be collected  during the calendar  quarters  of January through March, April  to June, July to September,  and October 
+through December  and the results  submitted  with the April,  June, September,  and January  DMRs.  The Permittee  shall  submit the 
+Permit  No. MA0000787  2023 Final Permit  
+Page  23 of 50  
+results  to EPA  of any additional testing  conducted beyond that required  herein, if it is conducted in accordance with EPA  approved 
+methods consistent with the provisions of 40 C.F.R. §122.41(l)(4)(ii). For those months when there are no discharges, the 
+Permittee must report a NODI Code on the DMR. If sampling is not conducted during the specified month, the Permittee shall attempt to sample during the following month. 
+ 
+ 
+ 
+  3. Grab sample at these outfalls shall be taken during wet weather conditions, if practicable. Wet weather conditions are defined as a 
+storm  event  greater  than 0.1 inches  in magnitude and that occurs  at least 72 hours  from  the previously measurable (greater  than 0.1 
+inch rain fall) storm event. The 72-hour interval may be waived when the preceding measurable storm did not yield a measurable discharge, or if the permittee is able to document that less than a 72-hour interval is representative for local storm events during  
+the sampling period. The grab sample shall be taken during the first 30 minutes of the discharge. If it is not practicable to take the sample during the first 30 minutes, sampling shall be conducted as soon as is practicable after this 30 minute period has elapsed, Massport shall report the flow rate for the days that sampling occurs based on the model used to estimate flows at the airpor t. 
+4. The flow volume shall  be estimated  by using the most  recent  hydraulic flow  model developed by Massport or other acceptable 
+method during the days of sampling. 
+5. The Permittee  shall  use EPA  Method 1664A for oil & grease (O&G)  analysis,  which  has a minimum level  (ML) of 5 mg/l,  where 
+the ML is the lowest level at which the test equipment produces a recognizable signal and acceptable calibration point for a pollutant or pollutant parameter, representative of the lowest concentration at which a pollutant or pollutant parameter can be measured with a known level of confidence. 
+6. Beginning after four quarterly samples have been collected, the Permittee  shall calculate a rolling 4 sample average for TSS each 
+subsequent calendar  quarter. If  any of these rolling  average values  is greater  than  100 mg/L, the Permittee  shall  assess its  SWPPP 
+and BMP Plan and make changes that are designed to result in TSS levels that are below 100 mg/l for subsequent quarterly average values.  
+7. DO monitoring shall  be conducted only during the quarters ending in  December  and March.  
+Permit  No. MA0000787  2023 Final Permit  
+Page  24 of 50  
+ 
+ 
+ 
+ 7. D
+uring the period beginning on the effective date and lasting through the expiration date, Massport and Co- Permittees are 
+authorized  to discharge stormwater  associated with  industrial activity  from  aircraft  and pavement/runway  deicing activities  to 
+Outfall 03B , Outfall 06B (airfield outfall A21), Outfall 07B (airfield outfall A33), and Outfall 08B (airfield outfall A8). If 
+industrial activity from pavement and runway activities other than deicing has occurred within the last 24 hours, the 
+Permittee will indicate  that as a note on the DMR or as an attachment  to the DMR.  Such  discharges shall  be monitored by 
+Massport as specified below:  
+ 
+Effluent Characteristic  Discharge Limitations  Monitoring  Requirements  1 
+Average 
+Monthly   
+Maximum Daily  Measurement 
+Frequency 2  
+Sample  Type  
+Propylene Glycol  ----- Report mg/L  3/Deicing  Season  Grab  
+BOD 5 ----- Report mg/L  3/Deicing  Season  Grab  
+COD ----- Report mg/L  3/Deicing  Season  Grab  
+Dissolved Oxygen  ----- Report mg/L  3/Deicing  Season  Grab  
+Tolyltriazoles  3, Total  ----- Report μg/L  3/Deicing  Season  Grab  
+Nonylphenol 3, Total  ----- Report μg/L  1/Deicing  Season  Grab  
+Footnotes:  
+1. Sampling  taken  in compliance with the monitoring requirements  specified above  shall  be taken  at Outfalls  06B, 07B, and 08B. For 
+Outfall 03B, sampling shall be conducted only at the catch basin at the airside location where the Permittee is authorized to take a sample that is representative of discharge t o Outfall 03B, as described in footnote 1 of Part I.A.2. Sampling shall be conducted 
+during or soon after deicing has occurred in the respective drainage areas of these outfalls. The Permittee may request permission to sample  alternative  airfield  outfalls  if the designated outfalls  are not easily  accessible.  Also  see footnote 2 in  Part I.A.1 regarding 
+the use of sufficiently sensitive test procedures. 
+Permit  No. MA0000787  2023 Final Permit  
+Page  25 of 50  
+2. Sampling frequency of three per deicing season of October through April, when discharge occurs. The Permittee shall submit the 
+results  to EPA  of any additional testing  conducted beyond that required  herein, if it is conducted in accordance with EPA  approved 
+methods consistent with the provisions of 40 C.F.R. §122.41(l)(4)(ii). For those months when there are no discharges, the Permittee must report a NODI Code (e.g., “C” for “No Discharge”) on the DMR. 
+ 
+3. See footnote 8 on Part  I.A.3 above for tolyltriazole  and nonylphenol analysis requirements.  
+Permit  No. MA0000787  2023 Final  Permit  
+Page  26 of 50  
+Part  I.A. continued:  
+ 
+8. The discharge shall  not cause a violation  of the water  quality  standards of the receiving 
+waters.  
+ 
+9. The discharge shall be free from pollutants in concentrations or combinations that, in the 
+receiving  waters,  settle  to form  objectionable deposits; float as debris, scum  or other matter 
+to form nuisances; produce objectionable odor, color, taste or turbidity; or produce undesirable or nuisance species of aquatic life.  
+ 
+10. The discharge shall  be free from  pollutants in concentrations  or combinations that adversely 
+affect the physical, chemical, or biological nature of the bottom. 
+ 
+11. The discharge shall  not result  in pollutants in concentrations or combinations in  the 
+receiving water that are toxic to humans, aquatic life or wildlife. 
+ 
+12. The discharge shall  be free from  floating, suspended and settleable  solids in concentrations 
+or combinations that would impair any use assigned to the receiving waters. 
+ 
+13. The discharge shall  be free from  oil, grease and petrochemicals  that produce a visible  film 
+on the surface  of the water,  impart an  oily taste  to the water  or an  oily or other undesirable 
+taste to the  edible portions of aquatic  life, coat the banks or bottom of the  water  course, or 
+are deleterious or become toxic to aquatic life.  
+ 
+14. All existing  manufacturing, commercial,  mining, and silvicultural dischargers  must notify 
+the Director as soon as they know or have reason to believe (40 C.F.R. § 122.42): 
+ 
+a. That any activity has occurred or will occur which would result in the discharge, on a routine or frequent basis,  of any toxic pollutant which  is not limited  in the permit,  if that 
+discharge will exceed the highest of the following “notification levels”: 
+ 
+(1) 100 micrograms  per liter (µg/L);  
+(2) 200 µg/L for acrolein  and acrylonitrile; 500 µg/L for 2,4-dinitrophenol; and one 
+milligram per liter (mg/L) for antimony; 
+(3) Five times  the maximum concentration  value reported  for that pollutant in the permit 
+application in accordance with 40 C.F.R. § 122.21(g)(7); or 
+(4) Any other notification  level  established  by the Director  in accordance with 40 C.F.R. § 
+122.44(f) and State regulations. 
+ 
+b. That any activity  has occurred  or will occur  which  would result  in the discharge,  on a non- 
+routine or infrequent basis, of any toxic  pollutant which is not limited in the  permit, if that 
+discharge will exceed the highes t of the following “notification levels”:  
+ 
+(1) 500 µg/L;  
+(2) One mg/L for antimony;  
+Permit  No. MA0000787  2023 Final  Permit  
+Page  27 of 50  
+(3) 10 times  the maximum concentration value reported  for that pollutant in the permit 
+application in accordance with 40 C.F.R. § 122.21(g)(7); or 
+(4) Any other notification  level  established  by the Director  in accordance with 40 C.F.R. § 
+122.44(f) and State regulations. 
+ 
+c. That they have begun or expect to begin to use or manufacture as an intermediate or final 
+product or byproduct any toxic pollutant which  was not reported  in the permit application. 
+ 
+15. Massport,  as the owner and operator  of this airport  facility  and its storm water  collection 
+system, is ultimately responsible for the discharges from this system to waters of the United States.  
+ 
+16. Massport shall comply with all existing federal, state, and local laws and regulations that apply to the reuse or disposal of solids, such as those  which  may be removed from  any catch 
+basins or settling basins on the site. At no time shall these solids be discharged to any receiving water.  
+ 
+17. The use of pavement or runway deicing compounds that contain urea is prohibited. If the Permittee determines that the use of urea is required based on safety considerations or a regulatory requirement  of the Federal  Aviation  Administration  (FAA),  the Permittee  shall 
+notify the EPA and this permit will be modified to establish a total ammonia nitrogen effluent limit of 14.7 mg/l for those outfall s that receive discharges of deicing activities, 
+consistent with the effluent limitation guidelines at 40 C.F.R. §449. 
+ 
+ 
+B. UNAUTHORIZED DISCHARGES  
+ 
+1. This permit authorizes discharges only from the outfall(s) listed in Part I.A.1 through I.A.7, in accordance with the terms and conditions of this permit. Discharges are authorized from all 44 airfield, perimeter outfalls. Monitoring that is representative  of all airfield outfalls is 
+required for 3 of these outfalls as shown in Parts I.A.6 and I.A.7. Discharges of wastewater from any other point sources are not authorized by this permit and shall be reported in accordance with Part D.1.e.(1) of the Standard Conditions of this permit (24-hour reporting). 
+ 
+2. The following discharges  are prohibited from  entering  the storm  drain  system.  Appropriate 
+control measures, which are outlined in the SWPPP requirements below, shall be implemented to prevent such discharges. 
+ 
+a. Direct discharge of pollutants [any substance, material, or waste other than stormwater associated with industrial activity including but not limited to: oil and grease, vehicle fluids, fuel, waste oil, solvents, degreasing  agents,  cleaning  solutions, battery  acid,  paint, 
+paint thinners, antifreeze (not including deicing chemicals), pesticides, herbicides, fertilizers, dumpster  wastes, sediment, landscape wastes, floatables, sewage, lavatory 
+wastes, potable water chemicals, rubber particles] into the storm drain system; 
+Permit  No. MA0000787  2023 Final  Permit  
+Page  28 of 50  
+b. Discharges  of non-industrial stormwater  and non- stormwater  discharges  that cause or 
+threaten to cause pollution, contamination, sedimentation, or nuisance; 
+ 
+c. Discharge  of wash  water  from  equipment, vehicle,  aircraft,  and lavatory  waste  truck 
+washing;  
+ 
+d. Discharge  from  firefighting  training  activities  other than those from  the Fire  Training 
+Facility to the permitted outfall as authorized by NPDES Permit #MA0032751; 
+ 
+e. Discharge  from  cleaning  of floor drains,  sumps, and oil/water  separators  that contains 
+sediment, chemical, and any other pollutants; 
+ 
+f.  Discharges  from  dewatering, hydrostatic tank testing  or pipe pressure testing  that contains 
+sediment, chemicals, and any other pollutants; 
+ 
+g. Disposal of petroleum wastes such  as waste oil;  and 
+ 
+h. Disposal of any liquid waste  from  any dumpster.  
+ 
+C. SPECIAL CONDITIONS  
+ 
+1. Stormwater  Pollution  Prevention Plan  (SWPPP)  
+ 
+Massport  shall  continue to implement the SWPPP that was developed pursuant to the 2007 
+Permit for all sources of pollutants generated or present at Logan International Airport, 
+(“Logan”),  which  have the potenti al to be discharged  to Boston Harbor,  Boston Inner Harbor 
+or Winthrop Bay. The SWPPP includes a general section for the control of all sources of water  pollutants and four (4) additional discrete  sections for each major  source of pollutants: 
+(1) deicing and anti- icing chemical sources, (2) potential illicit discharges, (3) fuel and oil 
+sources, and (4) runway rubber removal sources. Pursuant to the SWPPP, BMPs shall continue to be designed and implemented to meet the applicable Best Available Technology Economically Achievable/Best Conventional Pollutant Control Technology (BAT/BCT) standards required  by the CWA  as well as the following water  quality  based  requirements,  at a 
+minimum: (1) Any effluent shall not contain materials in concentration s or in combinations 
+which are hazardous or toxic to aquatic life or which would impair the uses designated by the classification of the receiving waters, and (2) The discharge shall not cause or contribute to a violation of the State water quality standar ds. 
+ 
+a. Co-Permittees  & Other  Tenants  
+ 
+Co-Permittees : Many tenants and service providers (often referred to as "fixed- base 
+operators") operating  at Logan  have been  named as  "Co-Permittees" due to their industrial 
+activities.  See Permit Attachment  B for a complete list of tenants  that are Co-Permittees  as 
+of the issuance of this Final Permit. A Co -Permittee is a Permittee that is only responsible 
+for permit conditions relating to the discharges for which it is an operator as provided at 
+Permit  No. MA0000787  2023 Final  Permit  
+Page  29 of 50  
+40 C.F.R. § 122.26(b)(1). An  entity  meets  the definition  of a Co -Permittee  if such  entity 
+performs industrial activities at an air transportation facility such as Logan, is classified 
+under Standard Industrial  Classification  (SIC)  4581 and has vehicle maintenance shops, 
+and conducts equipment cleaning operations, and/or airport deicing operations (see 40 C.F.R. §122.26(b)(14)(viii)). Vehicle maintenance includes vehicle rehabilitation, mechanical repairs, painting, fueling, and lubrication. Furthermore, entities are deemed to be Co -Permittees if they perform industrial activities at an air transportation facility as 
+defined in the NPDES Stormwater Multi- Sector General Permit for Industrial Activities 
+(2021 MSGP, Part 8.S.3), see also https://www.epa.gov/npdes/stormwater-discharges - 
+industrial- activities ). A Co -P ermittee also includes an entity that performs an activity  at 
+Logan that EPA  has determined  can contribute to a violation  of a water  quality  standard or 
+is a significant contributor of pollutants to waters of the United States (see 40 C.F.R. §122.26(a)(v)), as it
+  has for entities  handling aircraft  lavatory  waste or any other  sanitary 
+waste devices not directly piped to a "Publicly Owned Treatment Works." 
+ 
+The Permittee shall maintain all Stormwater Co -Permittee Applications (SWCPAs) that 
+the Co-Permittee  tenants  have completed.  When  a new  Co-Permittee  begins to operate at 
+Logan or a Co- Permittee ceases to operate at Logan, Massport shall add or delete such 
+SWCPAs from their list. This permit requires Massport to maintain a current list of the  
+Co-Permittees  at Logan and each Co-Permittee's  contact  for environmental issues.  All new 
+Co-Permittee tenants shall submit to Massport for approval their own SWPPP for the 
+industrial activities they perform or agree that they will adopt Massport’s SWPPP for the discharges resulting from their industrial activities within 60 d ays of being designated as 
+new Co -Permittee.  
+ 
+When a new Co -Permittee begins to operate at Logan or a Co -Permittee ceases to operate 
+at Logan, Massport shall follow the change in ownership or operational control requirements of 40 C.F.R. §122.63(d). Massport shall retain a signed copy of the SWCPA for each new Co -Permittee as well as each Co -Permittee’s Part II  form consistent with the 
+Massport  SWPPP which  meets  the requirements  of this final permit.  Massport  shall  keep  a 
+copy of its current SWPPP including copies of all current Co -Permittees SWPPPs at 
+Massport's Environmental Department offices at Logan and shall make these available upon request to any representative of EPA or MassDEP. 
+ 
+Other Tenants :
+  The presence and operations of other tenants at the airport, such as car 
+rental and food preparation establishments which are not defined separately as having stormwater discharges associated with industrial activity under 40 C.F.R.§122.26(b)(14) shall  also be addressed  in the SWPPP.  Massport  shall  require  private  agreements  through 
+contracts to ensure that the SWPPP for Logan addresses any potential stormwater contamination from these types of tenants. Massport shall ensure that these tenants manage any potential pollutant sources to stormwater in a manner consistent with this SWPPP.  
+Permit  No. MA0000787  2023 Final  Permit  
+Page  30 of 50  
+b. SWPPP Certification  and Annual Report - Massport shall maintain, update and ensure the 
+proper implementation of its SWPPP and any separate Co- Permittee's SWPPP. With 
+respect to the SWPPP, Massport is responsible for its own activities, each Co -Permittee  is 
+responsible for their own activities, and Massport has the overall responsibility for 
+coordination and oversight. Massport  and the Co-Permittees  shall  account for any changes 
+that occur at Logan which could impact the SWPPP and amend it as necessary to reflect any changes at the airport.  
+ 
+Massport shall provide an Annual Report that includes a proper certification to EPA and the MassDEP documenting that the previous year’s inspections and maintenance activities were conducted, results recorded, records maintained, and demonstrating compliance with the SWPPP. Massport shall revise its SWPPP within one year of the effective date of the permit to include any changes or additional elements required by this Permit. In this first year SWPPP revision, Massport shall also ensure that its SWPPP incorporates any of the technology- based  effluent  limits  at Part 8.S.4 and SWPPP requirements  at Part 8.S.5 of the 
+2021 MSGP that were not previously included. The report with the proper certification shall be signed in accordance with the requirements identified in 40 C.F.R. § 122.22. A copy of this certification will be due no later than January 31 of each year to cover the 
+prior calendar year and include a complete listing of Co- Permittees and their respective 
+contacts, incorporating additions and deletions through the calendar year. Massport shall obtain certifications (meeting the same requirements as described above for Massport) from all current Co -Permittees for their industrial activities and include these with the 
+Annual Report submittal. 
+ 
+c. S
+WPPP Objectives  - The SWPPP shall continue to focus on two major objectives: (1) to 
+identify sources of pollution that have the potential to affect the quality of the water discharged from the airport's outfalls including, but not limited to, stormwater, process water,  and wastewater  associated  with activities  performed  throughout the airport;  and (2) 
+to ens ure implementation of measures to minimize and control pollutants in stormwater, 
+wastewater and process water discharges associated with activities performed throughout the airport, so as to meet the CWA standards set out in Part I.C.1 of this permit. 
+ 
+The SWPPP for Massport and the Co- Permittees shall address all sources of pollutants 
+within their areas of operation that have the potential to drain to the stormwater sewer system including, but not limited to, where (1) chemicals or fuels are stored, (2) deicing and anti- icing chemicals are applied to airplanes, (3) aircraft are fueled, (4) solid wastes 
+and raw materials with the potential to leak are stored, (5)  solid wastes and raw materials 
+stored  indoors and have a potential to spill and flow to inside floor drains that drain  to the 
+stormwater system or to the outside, (6) automotive maintenance and cleaning activities occur, (7) aircraft maintenance activities occur, (8) deicing and anti -icing chemicals are 
+spread on runways and roadways, (9) maintenance of the runways to remove rubber particles to improve the surface friction levels occurs, (10) sewer connections to the stormwater drainage system are identified, (11) aircraft lavatory wastes are removed and transported, (12) food or food wastes  are store d that have the potential to attract  birds and 
+animals, and (13) birds tend to flock. 
+Permit  No. MA0000787  2023 Final  Permit  
+Page  31 of 50  
+ 
+Massport  and the Co-Permittees  shall  thoroughly evaluate all potential pollution sources  at 
+the site and select and implement appropriate measures designed to prevent or control the 
+discharge of pollutants to the outfalls, in order to meet the CWA standards set out in Part I.C.1 of this permit. Massport shall designate an Environmental Represe ntative (ER) that 
+will be  responsible for developing and implementing the facility wide SWPPP. Each Co - 
+Permittee listed in Attachment B shall designate an ER responsible for implementing the SWPPP required for the Co- Permittee's facility and its activitie s. Massport shall: (1) 
+maintain a team of qualified environmental airport personnel who are responsible for implementing  the SWPPP and assisting  Massport's ER responsible in its implementation; 
+(2) continually assess the sources  of water  pollution; (3) select  and implement appropriate 
+environmental management practices and controls; and (4) periodically evaluate the effectiveness of the plan to prevent the release of pollutants to the stormwater sewer system.  
+ 
+Massport and the Co- Permittees shall develop management practices that use pollution 
+prevention approaches to control the discharge of pollutants. The following classes of management  practices  are generally  employed at industrial facilities and  shall  continue to 
+be employed at Logan and outlined in the SWPPP: 
+ 
+(1) A pollution control program that implements  practices  such as good housekeeping, 
+employee training, and spill response and prevention procedures; and 
+(2) Management  practices  that address containment, mitigation,  and cleanup.  
+ 
+d. O
+utline  of the SWPPP - The SWPPP shall contain  the following elements:  
+ 
+(1) Details  of the SWPPP  
+i. Pollution  Prevention Team  
+ii. Description  of the Facility  Regarding Potential Pollution Sources  
+iii. Description  of the Facility  Site and Receiving  Waters/Wetlands  
+iv. Description  of Potential Pollutant Sources  
+v. Stormwater  Management  Controls  
+vi. Site Inspection  
+vii. Consistency with Other  Plans  
+vii. Amending the SWPPP 
+ 
+(2) BMPs for Identifying and Reducing Deicing  and Anti -Icing  Sources  
+(3) BMPs for Identifying and Reducing Potential Illicit Discharges  
+(4) BMPs for Identifying and Reducing Fuel  and Oil Sources  
+(5) BMPs for Minimizing  and Reducing Rubber Removal  Sources  
+Permit  No. MA0000787  2023 Final  Permit  
+Page  32 of 50  
+e. Details  of the SWPPP  
+ 
+(1) Pollution  Prevention Team  
+ 
+Massport sh all maintain a team of individuals that includes an ER from each Co - 
+Permittee, who shall be responsible for implementing the SWPPP and assisting the 
+Massport ER in its implementation. When selecting members of  the team, Massport’s 
+ER should draw  on the expertise of all relevant  departments  and Co-Permittees  within 
+the airport  to ensure that all aspects  of airport  operations are considered  when  the plan 
+is developed. The plan must clearly  describe  the responsibilities  of each team  member 
+as they relate to  specific components of the plan. In addition to enhancing the quality 
+of communication between team members and other personnel, clear delineation of responsibilities will ensure that every aspect of the plan is addressed by a specified individual or group of individuals. 
+ 
+(2) Description  of the Facility  Regarding Potential Pollution Sources  
+ 
+The SWPPP shall describe activities, materials, and physical features of the facility that may  potentially  contribute pollutants to  stormwater  runoff or, during periods of 
+dry weather, result in pollutant discharges through the separate storm sewers or stormwater  drainage systems throughout the facility.  This assessment  of stormwater 
+pollution risk shall support subsequent efforts to identify and set priorities for necessary changes in materials, materials management practices, or site features, as well as aid in the selection of appropriate structural and nonstructural control techniques, if necessary. 
+ 
+(3) Description  of the Facility  Site and Receiving  Waters/Wetlands  
+ 
+The plan must contain a map or maps of the site that shows the location of outfalls covered by the permit (or by other NPDES permits), the  pattern of  stormwater drainage, 
+an indication of the types of discharges contained in the drainage areas of the outfa lls, 
+structural features that control pollutants in runoff,
+2 surface water bodies (including 
+wetlands), areas where significant materials3 are exposed to rainfall and runoff, and 
+locations where any spills  and leaks  of toxic or hazardous materials  have occurred  in the 
+past five (5) years. Such maps shall display the locations where the following activities take place: (1) chemicals or fuels are stored, (2) deicing and anti -icing chemicals are  
+ 
+2 Non-structural features  such as grass swales  and vegetativ e buffer strips  also should  be shown . 
+ 
+3 Significant materials include, but are not limited to the following: raw materials, fuels, solvents, detergents, and 
+plastic pellets, finished materials, such as metallic products, raw materials used in food process ing or production, 
+hazardous substances designated under Section 101(14) of the Comprehensive Environmental Response, 
+Compensation and Liability  Act (CERCLA),  any chemical  the facility  is required  to report  pursuant  to the  Emergency 
+Planning and Community Right -to-Know Act (EPCRA) Section 313, fertilizers, pesticides, and waste products, such 
+as ashes, slag, and sludge that have the potential be released with stormwater discharges. ( See 40 C.F.R.  
+§122.26(b)(8)).  
+Permit  No. MA0000787  2023 Final  Permit  
+Page  33 of 50  
+applied  to aircraft,  (3) aircraft  fueling, (4) outdoor solid  waste and  raw materials  storage,  
+(5) indoor solid waste and raw materials storage areas that have a potential to spill and 
+flow to floor drains that drain  to the stormwater  system,  (6) automotive maintenance  and 
+cleaning activities, (7) aircraft maintenance activities, and (8) application of deicing chemicals on impervious (paved) surfaces. For areas of the facility that generate stormwater discharges with a reason able potential to contain significant amounts of 
+pollutants, the map shall indicate the probable direction of stormwater flow and the pollutants likely to be in the discharge. 
+ 
+Flows with a  significant potential to cause  soil erosion also must be identifie d. In order 
+to increase  the readability  of the map,  the inventory of the types of discharges contained 
+in each outfall may be kept as an attachment to the site map.  
+ 
+(4) Description  of Potential Pollutant Sources  
+ 
+The SWPPP shall  provide a description of potential  sources which  contribute pollutants 
+to stormwater discharges or which may result in the discharge of pollutants draining from the facility. The description shall address each pollutant for which monitoring is required. The SWPPP must identify all activities and significant materia ls, which may 
+potentially be significant pollutant sources. The SWPPP shall include: 
+ 
+i. A topographic map extending one- quarter  of a mile beyond the property  boundary 
+of the facility;  
+ii. An estimate  of the overall runoff coefficient  for the site, determined  by an 
+acceptable method, such as area weighting; 
+iii. Methods of on- site storage or disposal of these materials; materials management 
+practices  employed to minimize  contact  of these materials  with stormwater  runoff; 
+materials loading and access areas ; the location and description of existing 
+structural and nonstructural control measures to reduce pollutants in stormwater runoff; and description of any treatment the stormwater receives; 
+iv. A list of all spills  and leaks  of toxic or hazardous materials  that have occurred  at 
+the facility five years prior to the effective date of this permit to the present; 
+v. A list of any non- stormwater  discharges that are known or are reasonably expected 
+to be present at the site.  
+ 
+(5) Stormwater  Management  Controls  
+ 
+Massport shall describe stormwater  management controls appropriate for an airport and 
+continue to implement such controls, in order to  meet the  CWA  standards set  out in Part 
+I.C.1 of this permit.  The appropriateness  for implementing  controls listed  in the SWPPP 
+must reflect identified potential sources of pollutants at the facility. The description of stormwater management controls must address the following minimum components, including a schedule for implementing such controls: 
+Permit  No. MA0000787  2023 Final  Permit  
+Page  34 of 50  
+i. Pollution  Prevention Team  – as described  in Part I.C.1.e.(1) above. The activities 
+and responsibilities of the team must address all aspects of Logan's SWPPP. 
+ii. Risk Identification and Assessment/Material Inventory - The SWPPP must assess 
+the potential of various sources at Logan that could contribute pollutants to stormwater discharges associated with industrial activity. The SWPPP must include an inventory of the types of materials handled. Each of the following areas or activities must be evaluated for the reasonab le potential for contributing 
+pollutants to runoff: (1) storage of chemicals or fuels, (2) applications of deicing and anti-icing chemicals to aircraft, (3) fueling of planes, (4) storage of solid wastes and raw materials with the potential to leak, (5) in door storage of solid 
+wastes and raw materials that have with a potential to spill and flow  to inside floor 
+drains that drain to the stormwater system, (6) automotive maintenance and cleaning activities, (7) airplane maintenance activities, (8) application  of deicing 
+chemicals on tarmac or other areas, (9) identification of sewer connections to the stormwater drainage system, (10) removal and transporting of aircraft lavatory wastes, (11) storage of food or food wastes that could potentially attract birds and animals,  (12) flocking of birds, and (13) maintenance of runways to remove rubber 
+particles to improve the surface friction levels. Factors to consider include the toxicity of chemicals; quantities of chemicals used, produced, or discharged; the likelihood of their contact with stormwater, and the history of significant leaks or spills of toxic or hazardous pollutants. 
+iii. Preventative Maintenance - A preventative maintenance program must be 
+comprised of inspections and maintenance of stormwater management devices (i.e., oil/water separators, catch basins, track mats) as well as the periodic inspection and testing  of facility equipment and systems to uncover conditions that 
+could cause breakdown or failures resulting in discharges of pollutants to surface waters.  
+iv. Good Housekeeping - The SWPPP shall address good housekeeping, which 
+requires the maintenance of a clean orderly f acility. Examples of these practices 
+are included in an existing component of Massport’s SWPPP which is entitled 
+“General – Baseline BMPs.” These practices include actions such as frequent equipment cleanings,  maintenance  of clean  floor and pavement  areas,  and proper 
+centralized storage of chemical containers.  
+v. Spill Prevention and Response Procedure - Areas where potential spills can occur and their accompanying drainage points, must be identified clearly in the SWPPP. The potential for spills  to enter  the stormwater  drainage system  must be eliminated 
+whenever feasible. Where appropriate, specific material handling procedures, storage requirements, and procedures for cleaning up spills must be identified in the SWPPP and made available to the appropriate per sonnel. The stormwater 
+discharges shall be tested for pollutants contained in the material spilled, in the event that the spill has reached the stormwater drain, within 24 hours from the initial occurrence of the spill as directed by the EPA or the MassDEP during clean up associated with such occurrence. Massport is responsible for the sampling and analysis of storm drain discharges. 
+Permit  No. MA0000787  2023 Final  Permit  
+Page  35 of 50  
+vi. Stormwater Management - The SWPPP must contain a narrative evaluation of the 
+appropriateness of traditional stormwater management practices. Based on an assessment  of the potential of various sources  at the facility  to contribute pollutants 
+to the stormwater discharge, the SWPPP must provide measures, determined to be reasonable and appropriate, to be implemented and maintained, in order to meet the CWA standards set out in Part I.C.1 of this permit. 
+vii. Sediment and Erosion Prevention - The SWPPP must implement ongoing 
+measures  to protect  receiving  water  quality  from  impacts  due to construction 
+activities  that disturb less than one acre and are not subject  to EPA’s  NPDES 
+Construction General Permit (CGP).  
+viii. Employee Training - Employee training programs must inform personnel 
+responsible for implementing activities identified in the SWPPP, or otherwise responsible for stormwater management at all levels, of the components and goals of the SWPPP. Training should address topics such as spill response, good housekeeping and material management practices. The SWPPP must identify periodic dates  for such training, which  shall  be conducted  annually, at a minimum.  
+ix. Visual Inspections - Qualified facility personnel must be identified to inspect 
+designated  equipment and facility  areas.  Material  handling areas  must be inspected 
+for evidence of, or the potential for, pollutants  entering  the drainage system.  Along 
+with the monitoring required at three (3) of the forty-four (44) airfield outfalls, the discharge at each of the 44 outfalls shall be inspected annually during dry weather conditions. Inspections shall be conducted near low tide when many of these outfalls should be accessible. The inspector shall record evidence of any sheen, odors, or staining which would indicate the presence of pollutants. Weather conditions shall be recorded at the time of the inspection. A tracking or follow up procedure must be used to ensure that appropriate actions have been made in response to problems observed during the inspection (e.g. visible sheen, damaged outfall pipe). Records  of inspections must be maintained  for six (6) years,  pursuant 
+to Part II.C.1.b of the permit. 
+x. Recordkeeping and Internal Reporting Procedures - Incidents such as spills, or 
+other discharges, along with  other information  describing the quality  and quantity 
+of stormwater  discharges  must be included in the SWPPP records.  All inspections 
+and maintenance activities  must be documented and  maintained  on site for six  (6) 
+years.  
+ 
+(6) Site Inspection - An annual site inspection must be conducted by the Pollution 
+Prevention Team, as named in the SWPPP, to verify that the description of potential pollutant sources is accurate, that the drainage map has been updated or otherwise modified to reflect current conditions, and controls to reduce pollutants in stormwater and process water discharges identified in the SWPPP are being implemented and are adequate. A tracking or follow-up procedure must be used to ensure that the appropriate action has been taken in response to any issues of concern identified during each inspection. Records  documenting significant observations made  during the 
+site inspection must be retained as part of the SWPPP for six years. 
+Permit  No. MA0000787  2023 Final  Permit  
+Page  36 of 50  
+(7) Consistency with Other Plans - Stormwater management controls may reflect 
+requirements for Spill Prevention Control and Countermeasure (SPCC) plans under Section  311 of the CWA  and may incorporate any  part of such plans into the SWPPP 
+by reference.  
+ 
+(8) Amendi ng the SWPPP - Massport and the Co- Permittees shall amend and implement 
+an amended SWPPP whenever there is a substantial change in any aspects of design, construction, operation, or maintenance, which have a significant effect on the potential for the discharge of pollutants to any of the receiving waters; a release (as defined  by 40 C.F.R. § 300.5) of reportable quantities of hazardous substances  and oil; 
+or if the SWPPP proves to be ineffective in achieving the general objectives of controlling pollutants in stormwater discharges. Any such amended SWPPP shall be implemented within 30 days. 
+ 
+f. BMPs for Identifying and Reducing Deicing  and Anti-icing Sources  
+ 
+Massport and Co-Permittees that store, handle or apply deicing and/or anti-icing compounds
+4 at Logan International Airport  shall  continue to implement BMPs for Deicing 
+and Anti-Icing Chemicals. The SWPPP shall include the following information: 
+ 
+(1) Potential Pollution Sources – All Permittees that apply deicing and/or anti-icing chemicals must maintain  a record of  the types of such chemicals (including the Safety 
+Data Sheets [SDS]) used and the monthly quantities, either as measured or, in the absence of metering, as estimated to the best of their knowledge. This includes all deicing and anti- icing chem icals, not only glycol formulations, because large 
+quantities of such chemicals may have an adverse impact on receiving waters. Co- Permittees that conduct deicing operations shall provide a copy of the above information  to Massport  for inclusion in the Massport SWPPP and each annual  Glycol 
+Reduction Report described in I.C.1.f.7 below.
+5 
+ 
+(2) Source Reduction – All applicators of anti-icing  and deicing  chemicals  shall  consider 
+alternatives to the use of these chemicals to reduce the aggregate amount of these chemicals used and/or lessen their environmental impact while maintaining flight safety.  
+ 
+Co-Permittees that deice aircraft shall implement a blend -to-temperature 
+program for tracking and reducing the use of glycols, the documentation of which, shall be collectively managed and reported by Massport. This program requirement  is detailed  in Part I.C.2. below, which  specifies  a timeline  by which  this 
+program is  required  to be implemented  and an annual assessment  of the reduction in 
+glycol use and corresponding levels of effluent BOD and COD discharged to the 
+ 
+4 "Deicing"  generally  refers  to both deicing  (removing frost,  snow  or ice) and anti-icing  (preventing accumulation  of 
+frost, snow or ice) activities, unless specific mention is made regarding anti -icing and/or deicing activities.  
+ 
+5 MSGP 2021,  Part 8.S.3.2  
+Permit  No. MA0000787  2023 Final  Permit  
+Page  37 of 50  
+receiving waters. It also requires the long-term reduction of the discharge of glycols. 
+Massport  shall  continue to assess other measures  to implement which  will continue to 
+reduce the levels of deicing chemicals that it applies on runways and taxiways at the airport.  
+ 
+Co-Permittees that are not subject to the blend -to-temperature program (small 
+commuter  and general  aviation  departures)  shall  continue to implement other measures 
+described in the SWPPP above to minimize the use of glycols. Co -Permittees shall 
+communicate their findings to Massport for inclusion in each annual Glycol Reduction Report described in Part I.C.2. Massport shall also continue to assess other meas ures to reduce the use and discharge of glycol compounds that it applies on 
+runways and taxiways  and include its findings in each annual Glycol Reduction Report 
+described in Part I.C.2. 
+ 
+(3) Runway Deicing and Anti- icing – Massport and Co- Permittee tenants that conduct 
+deicing operations shall ensure that only the necessary amount of deicing and anti- icing chemicals are used, consistent with considerations of flight safety and protocols established by the Federal Aviation Administration (FAA). Massport and appl icable 
+Co-Permittee tenants shall also consider the following BMP options (or their 
+equivalents): metered application of chemicals; pre -wetting dry chemical constituents 
+prior to application; installing a runway ice detection system; implementing anti- icing 
+operations as a preventative measure against ice buildup.
+6 The use of any deicing or 
+anti-icing  products that contain urea,  consistent with the requirement  established  by 40 
+C.F.R. § 449, is prohibited. 
+ 
+(4) Aircraft Deicing –Co -Permittees shall ensure that only the necessary amounts of 
+deicing chemicals are used, consistent with considerations of flight safety and protocols established by the FAA. This evaluation should be carried out by personnel most familiar with the particular aircraft and flight operations in question. Co- Permittees  tenants  that are not subject  to the Deicer  Discharge Reduction Plan (DDRP) 
+in Part I.C.2 (small commuter and general aviation aircraft) shall also consider the following BMP options (or their equivalents) for reducing deicing fluid use: forced- air 
+deicing systems, computer controlled fixed-gantry systems, infrared technology, hot water, enclosed -basket deicing trucks, mechanical methods, solar radiation, hangar 
+storage, aircra ft covers, and thermal blankets. Massport and its Co- Permittee tenants 
+shall also consider using ice- detection systems and airport traffic flow strategies and 
+departure slot allocation systems.
+7 
+ 
+(5) Management  of Runoff - Where deicing  and anti-icing  operatio ns occur,  Massport  and 
+its Co -Permittee tenants shall describe  and implement a program to control or manage 
+contaminated  runoff to  reduce the amount of pollutants  being discharged  from  the site. 
+Massport and its Co-Permittee tenants shall consider the following BMP options (or 
+ 
+ 
+6 MSGP 2021,  Part 8.S.4.1.6  
+7 MSGP 2021,  Part 8.S.4.1.6  
+Permit  No. MA0000787  2023 Final  Permit  
+Page  38 of 50  
+their equivalents): a dedicated deicing facility with a runoff collection/recovery 
+system; using vacuum/collection trucks; storing contaminated stormwater/deicing fluids in tanks and releasing controlled amounts to a POTW; and directing runoff into vegetat ive swales  or other infiltration  measures.  Massport  and its Co-Permittee  tenants 
+shall also consider recovering deicing materials when these materials are applied during non-precipitation events (e.g. covering storm sewer inlets, using booms, installing ab sorptive interceptors in the drains, etc.) to prevent these materials from 
+later becoming a source of stormwater contamination. Used deicing fluid should be recycled whenever possible.  
+ 
+(6) Inspections – Massport  shall  specify  the frequency  of inspections in the SWPPP.  At a 
+minimum, inspections shall be conducted by qualified personnel monthly during the deicing season (e.g., October through April). Also, if significantly or deleteriously large quantities of deicing chemicals are being spilled or discharged, o r if water 
+quality impacts have been reported, Massport shall increase the frequency of inspections to weekly until such time as the deicing chemical spills/discharges and their associated impacts are minimized to the extent practicable.  
+ 
+(7)  Re-evaluation of BMPs - The BMPs for deicing shall be re- evaluated after each 
+deicing  season,  to determine if revised  or supplemental BMPs are necessary  in order to 
+protect the water quality of the receiving waters. As described in Part I.D. below, the Permittee shall sub mit an annual Glycol Reduction Report, no later than September 
+30
+th each year, which will track the effluent levels of BOD and COD loading and the 
+total usage of glycols for deicing on the airport. 
+ 
+g. BMPs for Identifying and Reducing Potential Illicit Disch arges  
+ 
+(1) Purpose  
+ 
+Massport, with the cooperation of the Co- Permittees, will continue to implement a 
+comprehensive plan to identify  and eliminate  dry and wet weather  illicit discharges  to 
+its separate stormwater sewer system. The plan will focus on all potential sources of contamination, including but not limited to, the sanitary sewer system, lavatory handling practices, and illegal connections. These BMPs shall consist primarily of visual observations of the stormwater sewer and sanitary sewer systems including, video inspection of the sanitary sewer system and dye testing of the sewer pipes and building plumbing. The protocol may be modified to address atypical situations such as surch arged pipelines, groundwater or backwater conditions that preclude adequate 
+inspection, or the presence of non- human wastes.  
+ 
+Massport may also employ additional investigative techniques, including indicator bacteria sampling, tracers (such as fluorescent whitening agents, caffeine, and sucralose),  and genetic microbial  source tracking, to identify  potential inputs from  the 
+sanitary sewer system to the stormwater sewer system.  
+Permit  No. MA0000787  2023 Final  Permit  
+Page  39 of 50  
+Within two years after the effective date of the permit, Massport shall submit a report 
+to EPA and MassDEP outlining the findings associated with this BMP, describing measures that were taken to address any discovered illicit connections or damaged sewer  lines as well as any additional remediation activities  that were conducted or that 
+are planned to address any impairments or illicit connections to the storm drainage system. Recently conducted assessments of any portions of the stormwater drainage system m ay be used to satisfy this requirement. The following metrics shall be 
+considered:  
+ 
+i. Number/Percentage of manholes/structures inspected,  
+ii. Number/Percentage of buildings inspected/dye tested,  
+iii. Footage/Percentage of pipe cleaned and  inspected  by video,  
+iv. Infrastructure  defects  identified  and repaired,  
+v. Number/Percentage of illicit discharges  and cross -connections identified,  
+vi. Number/Percentage  of illicit discharges  and cross -connection removed,  
+vii. Unit and total costs  of removal of illicit discharges and  cross -connections, and 
+viii. Reduction in indicator bacteria  (fecal  coliform  and Enterococci ) densities  at 
+outfalls.  
+ 
+This report  shall  provide a narrative description of this BMP,  plans for the duration of 
+the permit term, and an evaluation of overall system health. If any major projects or improvements are identified as a result of this annual evaluation, then a schedule to address such projects shall be provided, particularly if their scope goes beyond the following year. 
+ 
+(2) Mapping  
+ 
+The 2007 Permit’s SWPPP required the Permittee to develop maps showing a comprehensive depiction of key infrastructure and identifying potential cross- connections between the sanitary sewer and stormwater sewer systems and potential illicit sanitary  sewer  discharges.  Within  one year of the effective date of the permit,  the 
+Permittee shall update these maps to reflect new information, corrections, modifications, and improvements to the sewer systems and incorporate these into its SWPPP.  
+ 
+(3) Drainage Tributary  Area Prioritization  
+ 
+The Permittee  will continue to focus these investigative  efforts  on the prioritization  of 
+the drainage areas that it determined was appropriate pursuant to the current SWPPP. This prioritization  shall  be reviewed  with the reissuance  of this permit to ensure that it 
+is still appropriate and revised as necessary. 
+Permit  No. MA0000787  2023 Final  Permit  
+Page  40 of 50  
+(4) Sewer  Rehabilita tion, Cross -Connection Removal  and Operational Improvements  
+ 
+Cross -connections as well as debris and grease build-up, structural deficiencies, and 
+other system problems will be identified based on ongoing inspections and 
+maintenance. Appropriate rehabilita tion solutions will be implemented.  Following 
+removal  of a cross -connection, illicit discharge,  or other rehabilitation,  dye testing  will 
+be used to verify the correction. 
+ 
+h. BMPs for Identifying and Reducing Discharges  from Fuel and  Oil Sources  
+ 
+(1) Above Ground Storage Tanks (ASTs) at Fuel  Farm  
+ 
+The accumulated stormwater in the large AST secondary containment areas shall be combined with the flow from the fuel loading rack and the treated flow from the hydrant vaults and pits (Outfall  01E) and sent to the treatment system  at the fuel farm 
+to discharge at internal Outfall 01D. See I.A.4 of the permit, above, for additional requirements and applicable effluent limits associated with these internal outfalls.  
+ 
+(2) SPCC  Plan 
+ 
+These BMPs can reference and must be consistent with the Spill Prevention Control and Countermeasures (SPCC) Plan for the ASTs at the site. The SPCC Plan requires an owner or operator of certain  ASTs  to prepare and comply with written,  site-specific, 
+spill prevention plans (see 40 C.F.R. Part 112). Any more stringent requirement below must be incorporated into the SPCC Plan/SWPPP. 
+ 
+(3) Minimum Requirements  for ASTs  
+ 
+These BMPs shall require  at a minimum that all spilled or leaked jet fuel (JET -A) or 
+any other f uel from  the ASTs  be removed  from  the secondary  containment system  as 
+quickly as practicable and in all cases within 24 hours of such an occurrence. Following any  such  spills  or leaks,  the secondary  containment system  (the bermed  area 
+around the ASTs) must be thoroughly cleaned to remove any residual contamination. 
+ 
+(4) Underground Storage Tanks  
+ 
+At the fuel farm, there is a 20,000-gallon underground storage tank (UST) referred to as the equalization/holding tank. Stormwater from the hydrant vaults and pits of the centralized  fueling system  is stored  in this UST.  This water  undergoes treatment and is 
+sampled at internal Outfall 01E in accordance with Part I.A.4 of the Permit.  
+ 
+A 12,000-gallon underground storage tank (UST) stores diesel fuel used by onsite trucks and two 12,000-gallon UST  store  gasoline for fueling on- site vehicles.  A 1,000- 
+gallon UST stores diesel fuel for an on- site electrical generator. These USTs and any  
+Permit  No. MA0000787  2023 Final  Permit  
+Page  41 of 50  
+additional USTs  which  provide fueling  shall  require  the following BMPs,  as defined in 
+Part (5) below.  
+ 
+(5) Minimum Requirements  for USTs  and Loading Rack  Area at the Fuel Farm  and any 
+other facilities providing fueling 
+ 
+BMPs shall  include the following, at a minimum: 
+ 
+i. Install,  inspect, maintain,  test, and monitor all USTs  in accordance with local,  state 
+and federal requirements.  
+ii. Divert  stormwater  flows  away  from  fueling  areas  through the use of grade control, 
+berms, or curbing to avoid stormwater contact with contaminated surfaces. 
+iii. Use fuel dispensing equipment with "breakaway"  hoses and emergency  shutdown 
+of flow feature.  
+iv. Use automatic  shutoff valves on fuel tanker  trucks.  
+v. Develop a standard operating procedure (SOP) and enforce the procedures 
+prohibiting the "topping off" of on- site vehicles  to prevent the spilling  of fuel. 
+vi. Post "No Topping Off" signs on fuel pumps intended  for vehicular fueling to 
+prevent overfills. 
+vii. Provide and maintain  an adequate  supply of spill response materials  and equipment 
+in fueling areas and on fueling trucks. 
+viii. Collect  and properly dispose of any  spilled  fuel.  
+ 
+(6) Fueling Aircraft  
+ 
+Each  Co-Permittee  at the facility  shall  develop a SOP for each type of equipment that 
+fuels aircraft including fueling from the centralized fuel line or remote fueling by tanker truck. The SOP shall include procedures for responding to mi nor spills (less 
+than Reportable Quantities (RQs) as defined by 40 C.F.R. § 302.4) and major spills (greater than or equal to RQs). SOPs shall include the documentation of any quantity of JET -A or any other fuel spilled including the time and location and stipulate the 
+spill control equipment that will be available. SOPs from Co -Permittees that fuel 
+aircraft  shall  be reviewed and  approved by Massport’s ER to ensure consistency  with 
+Massport’s Aircraft Fueling BMPs. Massport shall ensure that all Co- Permitte es that 
+conduct aircraft fueling provide ongoing refresher training for their employees or contractors that conduct fueling operations. 
+ 
+Each  operator  of fueling equipment shall  have a communication  device  available  for 
+the purpose of alerting management of any spill. Any major spill shall be reported within  two hours to the proper authorities  in accordance with  local,  state  and federal 
+requirements.  
+ 
+U
+pon learning  of a major  spill,  any Co-Permittee  manager  shall  immediately  alert the 
+ER for Massport, after notifying the proper authorities. 
+Permit  No. MA0000787  2023 Final  Permit  
+Page  42 of 50  
+(7) BMPs for Fueling Practices  
+ 
+The following BMPs are designed to prevent stormwater  from  contacting  pollutants 
+associated with fueling activities. Massport and Co- Permittees must implement the 
+BMPs applicable to their facility and specific operations:  
+ 
+i. Describe  and implement measures  that prevent  or minimize  the discharge of fuel to 
+the storm sewer/surface waters resulting from fuel servicing activities or other 
+operations conducted in support of the airport fuel system. Consider the following fueling BMPs (or their equivalents): implementing spill and overflow practices (e.g., placing absorptive materials beneath aircraft during fueling); using dry cleanup methods; and collecting stormwater runoff. 
+ii. Collect  and properly dispose of any  spilled fuel.  
+iii. Provide and maintain  an adequate  supply of spill response materials  and equipmen t 
+on all fueling trucks. 
+iv. Manage the disposal of water  that collects  in fuel tanks and fueling hydrant sumps 
+by disposing off site or treating before disposing. Avoid any contact with stormwater or stormwater catch basins.  
+v. Record  all maintenance activities  and inspections relating  to fueling equipment, 
+containers,  and tanks in  dedicated  logbooks for  the centralized  fuel line and fuel 
+trucks.  
+vii. Massport shall post information, with wording such as "Do Not Dump. Drains to 
+Boston Harbor"  by catch  basins and other inlets  that convey stormwater  within  100 
+yards of any aircraft fueling location, if practicable.  
+ 
+(8) Aircraft  Maintenance Activities  at Hangars  (includes washing)  
+ 
+Minor maintenance activities  are permitted  at the terminals  and the terminal aprons. 
+Minor maintenance  activities  include addition of fluids, changing tires,  batteries  and 
+hoses, and other maintenance activities that do not have the potential of a release of pollutants. Fluid changes are not considered to be minor maintenance. 
+ 
+Major maintenance is permitted inside hangars and other buildings designed for maintenance of aircraft. Major maintenance includes fluid changes, engine repairs or engine disassembly. Major maintenance activities shall be performed indoors, except in case of an emergency or other compelling circumstance. The emergency or compelling  circumstance  and details  of the maintenance  activity  shall  be documented. 
+ 
+The following BMPs are designed to prevent stormwater  from  contacting  pollutants 
+associated with aircraft maintenance activities. Co -Permittees must implement the 
+BMPs applicable to their facility and specific operations. Below is a list of best management practices that shall be considered in the development of the SWPPP.  
+ 
+i. Maintenance activities  shall  occur  indoors at  designated  maintenance  facilities.  
+Permit  No. MA0000787  2023 Final  Permit  
+Page  43 of 50  
+ii. Equipment shall  be maintained  in a clean  condition and stored  indoors in properly 
+designed and suitably designated areas. 
+iii. “Dry"  cleaning  and surface  preparation  techniques shall  be used when  possible.  
+iv. Use water -based  cleaning  agents  or non-chlorinated solvents shall  be used to clean 
+equipment parts when possible. 
+v. Maintenance  shall  be conducted  in buildings equipped with runoff controls to 
+prevent discharges to stormwater. 
+vi. Maintenance  activities  or equipment staging shall  not be conducted near 
+stormwater catch basins or any storm water drainage feature.  
+vii. Install and  maintain  catch  basin  filter  inserts  that assist  in the removal  of oil and 
+grease, sediments and floating pollutants that may discharge from maintenance 
+work  areas,  active construction sites,  and other areas  that may experience higher 
+than average loadings of such materials. 
+viii. Use drip pans, absorbent materials, booms,  etc. to collect  fluid drippings.  
+ix. Use absorbent materials  at potential problem areas.  Collect/remove  absorbent and 
+used spill control materials promptly. T he materials shall be properly stored and 
+disposed of offsite according to applicable state and federal regulations. 
+x. Conduct periodic cleaning of any catch basins (annually at a minimum) that receive runoff within 100 yards of an aircraft maintenance area,  including catch 
+basins outside a hangar. Wastes  from  catch  basins must be contained  and properly 
+disposed of off-site. The flushing of contents of catch  basins to receiving  waters  is 
+prohibited.  
+xi. Store  all parts  and equipment for aircraft  maintenance indoors.  
+xii. Store and properly dispose of all fluids generated from aircraft maintenance. 
+Provide secondary containment while storing waste fluids such as greases, oils, antifreeze,  brake fluid, cleaning  solutions, hydraulic fluid, batteries,  transmission 
+fluid, and filters. 
+xiii. Whenever  possible, use biodegradable products and substitute  materials  with less 
+hazardous properties. 
+xiv. Post information, with wording such as "Do Not Dump. Drains  to Boston Harbor" 
+by catch basins and other inlets that convey stormwater within 100 yards of any aircraft maintenance location including outside aircraft hangars, if practicable.  
+xv. No w
+ash  waters  from  cleaning  aircraft  are to be discharged  to a stormwater 
+drainage sy stem.  
+ 
+(9) Automotive and Ground Service Equipment Maintenance Activities  (including 
+washing)  
+ 
+Automotive and ground service  equipment (GSE)  maintenance  activities  performed  on 
+airport property shall be performed indoors in maintenance garages or maintenance facilities, except in case of an emergency or other compelling circumstance or in the case of minor activities as described below. No maintenance activities shall be perfo rmed on terminal aprons at any time, except in case of an emergency. The 
+emergency  or compelling  circumstance and details  of the maintenance activity  shall  be 
+documented in the SWPPP files. Minor maintenance activities are permitted outdoors. 
+Permit  No. MA0000787  2023 Final  Permit  
+Page  44 of 50  
+Minor maintenance activities include addition of fluids, changing tires, batteries and 
+hoses, and other maintenance activities  that do not produce the potential for release of 
+pollutants. Fluid changes are not considered to be minor maintenance. Major maintenance is permitted indoors. Major maintenance includes fluid changes, engine 
+repairs, and engine disassembly. 
+ 
+The following BMPs apply to maintenance activities such as fluid changes, engine repairs or engine disassembly of automotive vehicles or ground service equipment. The BMPs are designed to prevent stormwater from contacting pollutants associated with automotive and ground service equipment maintenance activities. Co-Permittees 
+must implement the BMPs applicable to their facility  and specific operations.  Below  is 
+a list of best management practices that shall be considered in the development of the SWPPP.  
+ 
+i. Maintenance  activities  shall  occur  indoors at designated  garage or maintenance 
+facilities.  
+ii. Equipment shall  be maintained  in a clean  condition and parts  and equipment shall 
+be stored indoors at properly designed and suitably designated areas. 
+iii. "Dry"  cleaning  and surface preparation  techniques shall  be used when  possible.  
+iv. Use water -based  cleaning  agents  or non-chlorinated solvents to clean  equipment 
+parts when possible. 
+v. Eliminate  excessive buildup of oil and grease on vehicles,  equipment and work 
+area surfaces.  
+vi. Conduct maintenance in buildings equipped with runoff controls to prevent 
+discharges to stormwater. 
+vii. Maintenance  activities  or equipment staging shall  not be conducted near 
+stormwater catch basins or any stormwater drainage feature.  
+viii. Install and maintain  catch  basin  filter  inserts  that assist  in the removal  of oil and 
+grease, sediments and floating pollutants that may discharge from maintenance work areas.  
+ix. Use drip pans, absorbent materials,  booms, etc.  to collect  fluid  drippings.  
+x. Use absorbent materials  at potential problem areas.  Collect/remove  absorbent and 
+used spill control materials promptly. The materials shall be properly stored and disposed of offsite according to applicable state and federal regulations. 
+xi. Store oil filters and empty lubricant containers in leak -proof containers staged on 
+secondary  containmen t indoors. Spent hydraulic oil cans,  filters,  or used absorbent 
+materials are not to be placed in trash receptacles or dumpsters.  
+xii. Conduct periodic cleaning of any catch basins (annually at a minimum) that 
+receive runoff within 100 yards of a maintenance ga rage or maintenance facility 
+including catch basins outside of a facility. Wastes from catch basins must be collected  and properly  disposed of off-site. The flushing of contents of catch  basins 
+to receiving waters is prohibited. 
+xiii. S
+tore and properly dispose of all fluids generated from automotive or GSE 
+maintenance.  Remove and properly dispose of batteries  from  automotive or GSE 
+operations. Provide secondary containment while storing waste fluids such as 
+Permit  No. MA0000787  2023 Final  Permit  
+Page  45 of 50  
+greases,  oils, antifreeze,  brake fluid, cleaning  solutions, hydraulic fluid, batteries, 
+transmission fluid, and filters.  
+xiv. Whenever  possible, use biodegradable products and substitute  materials  with less 
+hazardous properties. 
+xv. Post information, with wording such as "Do Not Dump. Drains  to Boston Harbor" 
+by catch basins and other inlets that convey stormwater within 100 yards of any 
+automotive or GSE maintenance location, if practicable.  
+xvi. No wash  waters  from  cleaning  automotive and GSE  are to be discharged to a 
+stormwater drainage system.  
+ 
+i. BMPs for Minimizing  and Reducing Rubber Removal Sources  
+ 
+Runway Maintenance - Over time, materials such as tire rubber, oil and grease, paint chips, and jet fuel can build up on the surface of a runway causing a reduction in the friction  of the pavement  surface.  When  the friction  level  of a runway falls below a specific 
+level, maintenance must be performed. The FAA recommends several methods for removing rubber deposits and other contaminants from  a runway  surface including the use 
+of high pressure water, chemical solvents, high velocity particle impact, and mechanical grinding. If not properly managed, the materials removed from the runway surface could be discharged into nearby surface waters. Similarly, if chemical solvents ar e used in these 
+operations, improper management practices could result in discharges of the chemical solvents in the stormwater runoff from runway areas. 
+ 
+Massport uses high pressure water spray to periodically remove rubber deposits from the 
+runways. Mass port is required to implement measures to minimize the discharge of the 
+dislodged material from runways during these operations into the drainage system. All 
+collected  rubber debris from  this operation shall  be disposed of according  to local  or State 
+ordinances. Any washwaters from rubber removal operations shall not be discharged to the storm drain system or sanitary sewer. Such washwaters may be discharged to grassy areas of the airfield, provided all of the catch basins in the vicinity of such areas are covered. Massport shall notify the EPA and MassDEP of any changes to this procedure. 
+ 
+2. Long Term  Reduction in Glycol  Usage and  BOD/COD Loading  
+ 
+Beginning the first full deicing season that is at least two years after the effective date of this permit, Co -Permittees that conduct deicing of aircraft, shall implement a Blend -to- 
+Temperature program for the use of aircraft deicing products containing glycol as part of an overall Deicer Discharge Reduction Plan (DDRP). The use of a Blend -to-Temperature 
+program has been determined through Best Professional Judgement (BPJ) to constitute Best Available Technology (BTA) for the control of discharges of aircraft deicing fluids at Logan Airport.  The DDRP  will not require  the Blend -to-Temperature program to  be implemented  by 
+small commuter and general aviation aircraft, although these entities must implement other Pollution Reduction Technologies (PRTs) described in the SWPPP in Part I.C.1.f. PRTs are defined  as technologies employed to control discharges  resulting  from  aircraft  deicing  that are 
+required to support normal flight operations at Logan Airport. For purposes of this permit, 
+Permit  No. MA0000787  2023 Final  Permit  
+Page  46 of 50  
+“Blend -to-Temperature” shall  mean  a system  to blend Type I aircraft  deicing  fluids (ADF) 
+based on temperature and other factors, including ensuring compliance with all FAA 
+regulations and operational safety, that will reduce the use of these fluids. 
+ 
+The DDRP  shall  be incorporated into Massport’s  SWPPP within  twenty -four (24) months of 
+the effective date of this permit. Co -Permittees that conduct aircraft deicing operations shall 
+implement these updated SWPPP requirements  no later  than  the first  full deicing season  that 
+is at least two years after the effective date of this permit.  
+ 
+Massport  shall  submit the DDRP  to EPA  and MassDEP  within  six (6) months of the effective 
+date of the permit. The permittee shall address any comments received by EPA or MassDEP on the DDRP within six (6) months of receipt of such comments. The Co- Permittees, with  
+Massport’s support as needed, shall  implement the DDRP  no later than the first full deicing 
+season that is at least two years after the effective date of this permit . The DDRP shall be 
+made available to the public to the extent allowable by law.  
+ 
+The DDRP  shall include:  
+ 
+• A description of the Blend -to-Temperature program. 
+ 
+• A description of the methods and data that will be used to calculate and report  the annual 
+relative aircraft glycol use and COD/BOD loading reductions resulting from the implementation of the Blend -to-Temperature program.  
+ 
+• Descriptions of other  PRTs  implemented  to further reduce the application  and/or 
+discharges of aircraft glycol in comparison to the absence of such PRTs. 
+ 
+• A requirement that Co -Permittees that deice aircraft quantify the volume of ADF used 
+throughout each deicing season, a period that runs from October 1 through April 30. Masspo rt shall  implement data collection  and analysis  measures  to quantify such use by 
+Co-Permittees and submit its findings in a report to the agencies. 
+ 
+• Consideration of other deicer  reduction practices  described  in the Airport  Cooperative 
+Research Program (AC RP) Report 14: Deicing Planning Guidelines and Practices for 
+Stormwater Management Systems (2nd Edition, April 2020) as well as other industry 
+publications, and 
+ 
+• Consideration of product substitution  and operational changes  for runway deicers  that 
+reduce the oxygen demand of  deicer discharges, such as using products that contain a 
+lower percentage of glycols and/or other oxygen demanding substances. 
+ 
+Massport,  in cooperation with the Co-Permittees,  shall  submit an annual Glycol Reduction 
+Report by September 30th each year, which tracks the implementation of the DDRP. The Glycol Reduction Report shall include: 
+Permit  No. MA0000787  2023 Final  Permit  
+Page  47 of 50  
+• Each  air carrier  or FBO  conducting deicing  operations (excluding those entities  that are 
+exempt from the BTT requirement), shall certify annually for each deicing season that 
+BTT technologies were implemented for each deicing season.  
+ 
+• The annual relative (i.e., percent) reduction in the volume of glycol applied using the Blend -to-Temperatu re program compared  to the volume of glycol that would  have been 
+applied  in the absence of the  Blend -to-Temperature program for the deicing  season.  All 
+analyses and assumptions underlying this reduction estimate shall be provided. 
+• The annual  relative  (i.e., percent)  reduction in COD/BOD loadings discharged  to Outfalls 
+001 and 002 compared to the loadings that would have been discharged in the absence of the Blend -to-Temperature program for the deicing  season. Massport will use  the monthly 
+sampling requirement for BOD/COD during each deicing season as well as any additional sampling results to assure that the extrapolated effluent loading estimates are reliably accurate and statistically significant. All analyses and assumptions underlying this reduction estimate shall be provided. 
+• The estimated  total annual  amounts of glycol applied  and potentially  available  for 
+discharge via Outfalls 001 and 002 as a result of aircraft deicing operations. 
+• Consideration of weather  and other factors  that affect  the performance  of the  Blend -to- 
+Temperature program.  
+• An assessment  of whether  the glycol reduction target  of 30% has been  met. Massport,  in 
+coordination with its Co-Permittee tenants, shall explain why the 30% reduction target was not met and describe the measures that the Co -Permittee tenants will take towards 
+attaining this reduction target in subsequent years, if feasible.  
+• Massport  shall  also reduce the use of acetate formulations  for the deicing  of ramps, 
+taxiways, and runways to the extent practicable. 
+ 
+3. Discharges  of Chemicals and  Additives  
+ 
+The discharge of any chemical or additive, including chemical substitution, which was not 
+reported in the application submitted to EPA or provided through a subsequent written notification  submitted  to EPA  is prohibited. Upon the effective  date of this permit,  chemicals 
+and/or additives which have been disclosed to EPA may be discharged up to the frequency and level  disclosed, provided that  such  discharge does not violate  §§ 307 or 311 of the CWA 
+or applicable State water quality standards. Discharges of a new chemical or additive is authorized under this permit 30 days following written notification to EPA unless otherwise notified by EPA. To request authorization to discharge a new chemical or additive, the Permittee must submit a written notification to EPA in accordance with Part I.D.3 of this permit. The written notification must include the following information, at a minimum:  
+ 
+a. The following information for each chemical  and/or additive that  will be discharged:  
+Permit  No. MA0000787  2023 Final  Permit  
+Page  48 of 50  
+(1) Product name,  chemical  formula, general  description, and manufacturer  of the 
+chemical/additive;  
+(2) Purpose or use of the  chemical/additive;  
+(3) Safety  Data Sheet  (SDS),  Chemical  Abstracts  Service (CAS) Registry  number, and 
+EPA registration number, if applicable, for each chemical/additive; 
+(4) The frequency  (e.g., daily), magnitude (i.e., maximum application  concentration), 
+duration (e.g., hours), and method of application for the chemical/additive; 
+(5) The maximum discharge concentration;  and 
+(6) The vendor's reported  aquatic toxicity,  if available  (i.e., NOAEL  and/or LC 50 in 
+percent for aquatic organism(s)).  
+ 
+b. Written rationale which demonstrates that the discharge of such chemicals and/or 
+additives as proposed will not: 1) Add any pollutants in concentrations which exceed permit effluent  limitations; 2) Exceed  any applicable  water  quality  standard;  and 3) Add 
+any pollutants that would justify the application of permit conditions that are different from or absent in this permit.  
+ 
+4. After one year of monitoring, if all samples are non-detect for all six PFAS compounds, 
+using EPA’s multi-lab validated method for wast ewater, the Permittee may request to 
+remove the requirement for PFAS monitoring. Until written notice is received from EPA 
+indicating that the PFAS monitoring requirements have been changed, the Permittee is required  to continue the monitoring specified  in this permit.  See Reporting Requirements  in 
+Part I.D.3.a(8).  
+ 
+5. pH Study 
+ 
+In order to continue the pH limit range of 6.0 - 8.5 S.U. in future permits, within three (3) 
+years of  the effective date of  the permit, the Permittee shall conduct a study to demonstrate 
+that the pH in the receiving water does not exceed the range of 6.5-8.5 S.U. At least six (6) months prior to beginning to conduct the study, the Permittee shall contact MassDEP (massdep.npdes@mass.gov) for guidance on how to complete  the study. The completed  pH 
+study shall be submitted in accordance with Part I.D.2. and Part I.D.5 below. 
+ 
+D. REPORTING REQUIREMENTS  
+ 
+Unless  otherwise specified  in this permit,  the Permittee  shall  submit reports,  requests,  and 
+information and provide notices in the manner described in this section. 
+ 
+1. Submittal of DMRs  Using  NetDMR  
+ 
+The Permittee  shall  continue to submit its monthly monitoring data in discharge monitoring 
+reports (DMRs) to EPA and the State no later than the 15th day of the month electronically using NetDMR. When the Permittee submits DMRs using NetDMR, it is not required to submit hard copies of DMRs to EPA or the State. NetDMR is accessed from the internet at https://netd mr.zendesk.com/hc/en -us. 
+Permit  No. MA0000787  2023 Final  Permit  
+Page  49 of 50  
+ 
+2. Submittal of Reports as NetDMR  Attachments  
+ 
+Unless  otherwise specified  in this permit,  the Permittee  shall  electronically  submit all reports 
+to EPA as NetDMR attachments rather tha n as hard copies. See Part I.D.5. for more 
+information on State reporting. Because the due dates for reports described in this permit 
+may not coincide with the due date for submitting  DMRs  (which  is no later than the 15th day 
+of the month), a report  submitted  electronically  as a NetDMR  attachment  shall  be considered 
+timely if it is electronically submitted to EPA using NetDMR with the next DMR due following the particular report due date specified in this permit. 
+ 
+3. Submittal of Requests  and Reports to  EPA/WD  
+ 
+a. The following requests, reports, and information described in this permit shall be submitted  to the EPA/WD NPDES  Applications Coordinator in EPA’s  Water  Division: 
+ 
+(1) Transfer of Permit notice;  
+(2) Request  for changes in  sampling location;  
+(3) SWPPP  reports  and certifications,  if required;  
+(4) Request  to discharge new chemicals  or additives;  
+(5) Request  for change in  WET  testing requirements;  
+(6) Report on unacceptable dilution  water/request  for alternative  dilution  water  for WET 
+testing;  
+(7) Deicer  Discharge Reduction Plan/Glycol Reduction  Report; and  
+(8) Request  for discontinuation of per- and polyfluoralkyl substances  (PFAS)  sampling 
+requirements.  
+ 
+b. These reports,  information,  and requests  shall  be submitted  to EPA/WD  electronically  at 
+R1NPDESReporting@epa.gov or by hard copy mailed to the following address: 
+ 
+U.S. Environmental Protection  Agency 
+Water Division 
+EPA/WD NPDES  Applications Coordinator 
+5 Post Office Square - Suite 100 (06-03) 
+Boston, MA  02109- 3912  
+ 
+4. Submittal of Reports in Hard  Copy Form  
+ 
+a. The following notifications  and reports shall  be signed and dated  originals,  submitted  in 
+hard copy, with a cover letter describing the submission: 
+ 
+(1) Written  notifications  required  under Part II.  Beginning December  21, 2025, such  
+notifications  must be done electronically  using EPA’s  NPDES  Electronic  Reporting 
+Tool (“NeT”), or another approved EPA system, which will be accessible through EPA’s Central Data Exchange at https://cdx.epa.gov/ . 
+Permit  No. MA0000787  2023 Final  Permit  
+Page  50 of 50  
+ 
+b. This information  shall be submitted to  EPA  ECAD  at the  following address:  
+ 
+U.S. Environmental Protection Agency 
+Environmental Compliance  Assurance Division  
+Water Compliance Section  
+5 Post Office  Square,  Suite  100 (04-SMR) 
+Boston, MA 02109-3912 
+5. State  Reporting  
+ 
+Duplicate signed copies of all WET test reports shall be submitted to the Massachusetts 
+Department  of Environmental Protection, Division  of Watershed  Management,  at the following 
+address:  
+ 
+Massachusetts  Department  of Environmental Protection 
+Bureau of Water Resources  
+Division  of Watershed  Management 
+8 New Bond Street  
+Worcester,  Massachusetts 01606  
+ 
+An electronic copy of the pH Study described  in Part I.C.5 shall  be submitted  to 
+massdep.npdes@mass.gov. 
+ 
+6. Verbal  Reports  and Verbal  Notifications  
+ 
+a. Any verbal reports or verbal notifications, if required in Parts I and/or II of this permit shall be made to both EPA and to the State. This includes verbal reports and notifications which  require  reporting  within  24 hours (e.g., Part II.B.4.c. (2),  Part II.B.5.c. (3), and Part 
+II.D.1.e.).  
+ 
+b. Verbal  reports  and verbal notifications  shall  be made  to: 
+ 
+617-918-1510  
+ 
+c. V
+erbal  reports  and verbal  notifications  shall  be made to the State’s  Emergency  Response 
+at: 
+ 
+888-304-1133  
+ 
+ 
+E. STATE 401 CERTIFICATION CONDITIONS  
+ 
+Th
+is Permit is  in the process of receiving  state  water  quality certification  issued  by the State under  
+§ 401(a) of the CWA  and 40 C.F.R. § 124.53. EPA  will incorporate by reference  all State  water 
+quality certification requirements (if any) into the Final Permit.  
